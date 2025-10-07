@@ -37,3 +37,37 @@ Different companies define "Staff Engineer" differently:
 - **Some companies**: Treat Staff as a "super senior" who still belongs to a single team, only graduating to Principal+ for cross-team work
 
 Throughout this presentation, we use the first definition.
+
+## 2. What Differentiates Staff from Senior Engineers?
+
+**Impact Radius & Scope:**
+- Senior: Impact radius within their team. Concerned with what they can individually build and deliver
+- Staff: Impact radius at zone/org level. Concerned with multiplying the impact of engineers around them
+- Staff execution sets direction: When Staff engineers build, they're establishing patterns and showing "how we do things"
+
+**The Mastery Progression:**
+- Senior Engineer: Approaching **technical mastery**
+- Staff Engineer: Approaching **social mastery** (building consensus, influencing without authority, navigating organizational dynamics)
+- Principal Engineer: Approaching **business mastery**
+
+**Technical Decision Making:**
+- Senior: Make decisions within their domain/service, thinking 1-2 quarters ahead
+- Staff: Make decisions affecting system architecture and cross-team standards, thinking multi-quarter to multi-year ahead
+- Staff: Bring deeper expertise and consider longer time horizons when evaluating trade-offs
+
+**From Individual Contributor to Force Multiplier:**
+- Senior: Success = shipping high-quality features and systems
+- Staff: Success = making multiple teams more effective
+- Staff value examples: Creating reusable patterns, unblocking multiple teams, raising the technical bar
+  - TODO: Revisit these examples, they need improvement
+- (We'll explore how this value is realized in depth later)
+
+**Influence & Communication:**
+- Senior: Builds consensus within their team and immediate stakeholders
+- Staff: Builds consensus across teams with competing priorities and different contexts
+- Staff: Must navigate organizational politics and power structures to drive change
+
+**Handling Complexity:**
+- Senior: Navigates technical complexity within known problem spaces
+- Staff: Navigates technical AND organizational complexity across ambiguous problem spaces
+- Staff: Expected to have deeper awareness of risk, ambiguity, and organizational dynamics
