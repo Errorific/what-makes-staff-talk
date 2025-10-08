@@ -166,3 +166,67 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - **On the journey to Staff**: You typically embody ONE of these archetypes rather than multiple. This is often your path to promotion.
 - **Once you're Staff**: You flex between archetypes depending on organizational needs. The role is fluid, not rigid.
 - Most staff engineers blend multiple archetypes over time as they grow and as the organization's needs change.
+
+## 5. Behaviors That Lift Them Above Peers
+
+**Ownership & Accountability:**
+- Takes responsibility for seeing problems through to resolution, even when it crosses team boundaries
+- Owns outcomes, not just their individual contributions
+- Steps up when something is broken or unclear, rather than waiting for someone to assign it
+- Takes the blame when things go wrong, gives credit when things go right
+
+**Proactive Investigation & Discovery:**
+- Seeks out the next challenge and opportunity instead of waiting for it to be assigned
+- Investigates problems deeply before proposing solutions
+- Surfaces issues and risks early, even when uncomfortable
+- Asks "why" repeatedly to understand root causes, not just symptoms
+
+**Building Consensus & Influence (Social Mastery):**
+- Invests time in understanding stakeholder needs and constraints before proposing solutions
+- Builds relationships before needing them - networks proactively
+- Makes decisions transparent by documenting reasoning and trade-offs
+- Disagrees constructively and commits fully once decisions are made
+- Brings people along rather than pushing solutions through
+
+**Making Others Effective (Social Mastery):**
+- Makes themselves available to unblock others, even when it interrupts their own work
+- Creates clarity from ambiguity for their team and peers
+- Shares knowledge broadly through documentation, not just 1:1 conversations
+- Gives actionable feedback that helps people grow
+
+**Strategic Pragmatism:**
+- Focuses energy on highest-impact problems, says no to low-value work
+- Ships "good enough for now" solutions when appropriate, perfects when it matters
+- Makes trade-offs explicit and connects technical decisions to business impact
+- Knows when to accumulate technical debt and when to pay it down
+
+**Leading by Example:**
+- Models the behaviors and standards they want to see in others
+- Admits mistakes publicly and shares what they learned
+- Does the unglamorous work (documentation, tech debt, maintenance) without being asked
+- Maintains technical skills and stays hands-on, never becoming "too senior to code"
+
+**Navigating Complexity (Social Mastery):**
+- Understands how decisions really get made in the organization
+- Knows who needs to be involved and when
+- Reads the room and adapts communication style to the audience
+- Escalates appropriately - knows when to raise issues and to whom
+
+**Continuous Adaptation:**
+- Seeks feedback actively and acts on it
+- Comfortable with ambiguity and changing priorities
+- Adapts their approach based on what the organization needs, not what they prefer
+- Learns from failures and shares those lessons
+
+**Anti-Patterns (Behaviors That Hold Engineers Back):**
+
+- **Waiting for perfect information**: Paralyzed by ambiguity instead of moving forward with imperfect data
+- **Lone wolf syndrome**: Solving problems in isolation instead of building consensus
+- **Not invented here**: Rejecting solutions because they didn't come up with them
+- **Ivory tower architecture**: Making technical decisions without understanding implementation realities
+- **Hero complex**: Taking on everything themselves instead of multiplying others' impact
+- **Technical purity over pragmatism**: Prioritizing elegant solutions over shipping value
+- **Poor upward communication**: Failing to keep leadership informed of risks and progress
+- **Avoiding conflict**: Not speaking up when they see problems to avoid discomfort
+- **Working in the weeds**: Getting stuck in implementation details instead of focusing on impact
+- **Credit seeking**: Taking credit for team accomplishments or avoiding blame when things fail
