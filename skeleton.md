@@ -115,3 +115,54 @@ Examples of organizationally important problems:
 - Explicitly consider: maintainability, team skills, time-to-market, cost, business impact
 - Know when to accumulate technical debt vs. pay it down
 - Ties back to the mastery progression: Staff engineers are becoming more aware of business impact and must consider it in their actions and plans, but don't yet have the depth of business understanding expected at Principal+ levels
+
+## 4. Staff Engineer Archetypes
+
+Based on Will Larson's "Staff Engineer" book and common patterns in the industry.
+
+**The Tech Lead:**
+- Guides technical direction for a specific team/product
+- Balances coding with architecture and mentorship
+- Most common archetype
+- Example responsibilities: Service architecture, technical roadmap, unblocking team
+- Best fit: Teams that need consistent technical direction and growing engineers
+
+**The Architect:**
+- Focuses on company/org-wide technical architecture
+- Less hands-on coding, more design and strategy
+- Creates architectural standards and patterns
+- Example: Designing microservices strategy, data platform architecture
+- Best fit: Organizations scaling rapidly or undergoing major technical transitions
+
+**The Solver:**
+- Parachutes into critical problems and fixes them
+- Highly autonomous, moves between challenges
+- Deep technical expertise in specific areas
+- Example: Performance issues, data migrations, critical incidents
+- Best fit: Organizations with many complex technical challenges and need firefighting capacity
+
+**The Right Hand:**
+- Extends reach of executive or senior leader
+- High degree of organizational context and trust
+- Often works on top priorities or fires
+- Trusted to represent leadership's perspective
+- Best fit: Leadership needs leverage to execute on strategic initiatives
+
+**The Networker:**
+- Makes connections and bridges between teams and departments
+- Facilitates collaboration and information flow
+- Breaks down silos and creates organizational cohesion
+- Example: Connecting teams working on related problems, facilitating cross-team initiatives
+- Best fit: Larger organizations where coordination and communication are bottlenecks
+
+**The Expert:**
+- Deep knowledge of a specific technology or system
+- 10x engineer delivery in their domain of expertise
+- Go-to person for critical decisions in their specialty
+- Example: The Kubernetes expert, the database performance expert, the security specialist
+- Best fit: Organizations with critical specialized needs or complex technical domains
+
+**Important Notes:**
+- **On the journey to Staff**: You typically embody ONE of these archetypes rather than multiple. This is often your path to promotion.
+- **Once you're Staff**: You flex between archetypes depending on organizational needs. The role is fluid, not rigid.
+- Most staff engineers blend multiple archetypes over time as they grow and as the organization's needs change.
