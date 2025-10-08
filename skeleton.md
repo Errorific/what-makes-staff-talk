@@ -230,3 +230,100 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - **Avoiding conflict**: Not speaking up when they see problems to avoid discomfort
 - **Working in the weeds**: Getting stuck in implementation details instead of focusing on impact
 - **Credit seeking**: Taking credit for team accomplishments or avoiding blame when things fail
+
+## 6. How Business Value is Realized from Staff Engineers
+
+<!-- NOTE: This section could be expanded, but we may be running out of space in the presentation. Revisit later. -->
+
+**Force Multiplication - Making Teams More Effective:**
+- Creates reusable patterns and tools that multiple teams can leverage
+- Unblocks multiple teams by solving shared infrastructure problems
+- Establishes standards that reduce decision fatigue and increase velocity
+- Builds platforms that enable other engineers to move faster
+
+**Organizational Leverage:**
+- Prevents costly mistakes by identifying risks early in the design phase
+- Reduces technical debt accumulation through architectural guidance
+- Accelerates onboarding and knowledge transfer through documentation
+- Connects teams working on related problems, preventing duplicate work
+
+**Strategic Impact:**
+- Aligns technical direction with business goals, ensuring engineering effort drives value
+- Makes build vs. buy decisions that optimize for long-term cost and capability
+- Identifies technical opportunities that unlock new business capabilities
+- Reduces time-to-market for features through better architecture and tooling
+
+**Measuring Staff Engineer Impact:**
+- Not measured by lines of code or tickets closed
+- Measured by: Teams unblocked, architectural decisions that aged well, technical debt prevented
+- Success looks like: Other engineers moving faster, better decision-making across teams, reduced incidents
+- Long time horizons: Impact may not be visible for quarters or years
+
+**The Invisible Work:**
+- Much of the value is in what doesn't happen: outages prevented, bad architectures avoided, teams not blocked
+- The best staff engineering work often makes hard problems look easy or makes problems disappear entirely
+- Success often means others get credit for shipping features that the Staff engineer enabled
+
+## 7. The Path to Staff Level
+
+**Building the Foundation (While Still Senior):**
+
+**Expand Your Impact Radius:**
+- Start taking on problems that affect multiple teams, not just your own
+- Volunteer for cross-team initiatives and working groups
+- Look for opportunities where your team's work intersects with others
+- Begin thinking about zone-level or org-level problems
+
+**Problem Discovery & Initiative:**
+- Don't wait for assignments - identify important problems and propose solutions
+- Start finding work outside your typical assignments that needs doing
+- Surface technical debt, risks, and opportunities to leadership
+- Practice connecting technical problems to business impact
+
+**Build Your Network:**
+- Develop relationships across teams and functions before you need them
+- Attend architecture reviews, design discussions, and planning meetings outside your team
+- Make yourself known as someone who helps and unblocks others
+- Build bridges between teams and departments
+
+**Seek Technical Leadership Mentorship:**
+- Find Staff+ engineers or technical leaders to mentor you
+- Ask them about their path, their decision-making, and their challenges
+- Shadow them in design reviews, strategy discussions, and cross-team meetings
+- Get feedback on your technical vision and communication style
+
+**Develop Social Mastery:**
+- Practice building consensus on technical decisions
+- Learn to influence without authority
+- Work on written communication: RFCs, design docs, technical proposals
+- Study how decisions really get made in your organization
+
+**Demonstrate the Behaviors:**
+- Take ownership beyond your assigned work
+- Lead by example on code quality, documentation, and technical standards
+- Make others effective by unblocking, mentoring, and creating clarity
+- Show strategic pragmatism in your technical choices
+
+**Become Indispensable:**
+- Aim to become the person your peers turn to for guidance and unblocking
+- Build a reputation where people think "we need to get [your name] involved"
+- Be the engineer others can't imagine the organization functioning without
+<!-- NOTE: Add personal stories during slide creation -->
+
+**Document Your Impact:**
+- Keep track of cross-team impact, not just your individual contributions
+- Note when you've unblocked teams, prevented issues, or influenced direction
+- Collect feedback from peers, other teams, and leadership
+- Build a case for why your impact radius has grown to Staff level
+
+**Communicate Your Readiness:**
+- Have explicit conversations with your manager about the path to Staff
+- Understand what "good" looks like at Staff level in your organization
+- Seek feedback on gaps and work to close them
+- Make your Staff-level work visible to decision-makers
+
+**Timeline & Expectations:**
+- This transition doesn't happen organically - it requires deliberate effort
+- Expect 1+ years of investment into shaping your impact and showing up at the next level
+- This is ON TOP OF years of investment at Senior level to shore up your impact and skills there
+- Be patient but intentional - this is a long-term investment in your career
