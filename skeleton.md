@@ -1,7 +1,12 @@
 # Staff Engineers: Content Scaffold
 
-<!-- This file contains the raw content and notes for the staff engineer presentation -->
-<!-- Once sections are finalized, they'll be converted into slides.md -->
+## Talk Title and Description
+
+**Title:** What Makes Staff? Influence, Impact, and the Path Beyond Senior
+
+**Blurb:** The jump from Senior to Staff Engineer isn't just a promotion—it's a fundamental shift in how you create value for the organization. Staff Engineers lead through influence, not authority—and that leadership needs to multiply the impact of everyone around them. Discover what distinguishes Staff from Senior, how they approach their work differently, the behaviors that set them apart, and the pathway for engineers ready to level up.
+
+---
 
 ## 1. Introduction / Overview
 
