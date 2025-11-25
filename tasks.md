@@ -53,7 +53,7 @@
 
 ## Phase 2.5: Section Review
 - [x] Review Section 1 (Introduction) with Chris
-- [ ] Review Section 2 (Differentiators) with Chris
+- [x] Review Section 2 (Differentiators) with Chris
 - [ ] Review Section 3 (How They Work) with Chris
 - [ ] Review Section 4 (Force Multiplier) with Chris
 - [ ] Review Section 5 (Business Value) with Chris
