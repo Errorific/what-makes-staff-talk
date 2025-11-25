@@ -13,9 +13,10 @@ Section 3: How They Work (6-7 minutes)
 # Technical Work
 
 - Time spent coding is **highly variable** (70%, 30%, or less depending on needs)
-- Always in pursuit of technical outcomes - never lose technical skills
+- Stay hands-on and technically sharp - never become "too senior to code"
 - When they code: Setting patterns, proving concepts, unblocking critical paths
 - More time on: Architecture, design reviews, technical debt strategy
+- Less time on: Bugs, features, day-to-day tickets, individual code reviews, hands-on debugging
 
 <!--
 Don't let anyone tell you Staff engineers don't code. They do - but the nature of that coding changes. It's more strategic.
@@ -26,9 +27,10 @@ Don't let anyone tell you Staff engineers don't code. They do - but the nature o
 # Time & Attention
 
 - Meeting load goes up **substantially**
-- Interrupt-driven work increases - pulled into emerging situations
+- Interrupt-driven work increases - pulled into emerging situations and planning
 - More context switching between teams and problem domains
-- Must protect time for deep work while being available for unblocking
+- Must actively manage your time - deep work requires deliberate protection from constant interruptions
+- Exercise judgment on where your time creates most value - not every meeting or request needs your presence
 
 <!--
 Your calendar will look different. This is one of the hardest adjustments - learning to be effective despite constant interruptions.
@@ -44,6 +46,7 @@ What Staff engineers work on:
 - Create clarity from complexity
 - Raise the technical bar (code quality, testing, architecture patterns)
 - Build systems that scale - technical AND organizational
+- Mentor and develop engineers - building better engineers is a key objective
 
 <!--
 The key word is "organizationally important." You're not just solving hard technical problems - you're solving problems that matter to the business.
@@ -60,6 +63,9 @@ The key word is "organizationally important." You're not just solving hard techn
 - Technical architecture decisions that will impact hiring and team structure
 
 <!--
+TODO: These examples need fleshing out - add more concrete details and context.
+Consider merging this slide with the previous "Focus Areas" slide - just speak to these examples when covering the "organizationally important problems" bullet point.
+
 These are the kinds of problems where no single team owns the solution. Someone needs to step up and drive it - that's often the Staff engineer.
 -->
 
