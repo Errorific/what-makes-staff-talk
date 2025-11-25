@@ -26,8 +26,11 @@ This is where the IC track diverges from management. You're still an individual 
 
 | Level | Scope |
 |-------|-------|
+| **Junior** | Task level |
+| **Mid** | Feature level |
+| **Senior** | Team level, stretching towards zone |
 | **Staff** | Zone level or beyond |
-| **Principal** | Wider radius, multiple horizons into the future |
+| **Principal** | Multi-zone, multiple horizons into the future |
 | **Distinguished** | Company-wide impact, long-term strategic thinking |
 
 The minimum bar for Staff is **zone-level or organizational impact**.
@@ -44,6 +47,7 @@ Impact radius is the key differentiator between levels. Staff is the first level
 - Manage their own time budget
 - Apply themselves where they'll be most effective
 - Operate without needing direction on what to work on
+- Impact measured in outcomes, not contributions
 
 <!--
 At Staff level, no one is assigning you work. You're expected to find the most important problems and solve them.

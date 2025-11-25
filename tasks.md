@@ -52,7 +52,7 @@
 - [x] Create bonus slides (anti-patterns, Path to Staff checklist)
 
 ## Phase 2.5: Section Review
-- [ ] Review Section 1 (Introduction) with Chris
+- [x] Review Section 1 (Introduction) with Chris
 - [ ] Review Section 2 (Differentiators) with Chris
 - [ ] Review Section 3 (How They Work) with Chris
 - [ ] Review Section 4 (Force Multiplier) with Chris
