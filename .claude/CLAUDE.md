@@ -35,12 +35,33 @@ Slidev is a developer-friendly presentation tool that creates slides from Markdo
 **Key documentation:**
 - Main library ID for Context7: `/slidevjs/slidev`
 - Official docs: https://sli.dev
-- Key features we're using:
-  - Markdown-based slides with `---` separators
-  - Frontmatter for slide configuration
-  - Built-in layouts (two-cols, center, cover, etc.)
-  - Vue components
-  - Code highlighting
+
+### Neversink Theme
+We use the **neversink** theme (academic/education focused).
+
+**Theme docs:** https://gureckis.github.io/slidev-theme-neversink/
+
+**Available layouts:**
+- `cover` - Title slide
+- `intro` - Introduction slide
+- `default` - Standard content
+- `section` - Section divider
+- `two-cols-title` - Two columns with title
+- `top-title` - Title at top
+- `top-title-two-cols` - Top title with two columns
+- `side-title` - Title on side
+- `quote` - Quote presentation
+- `full` - Full-screen content
+- `credits` - Attribution slide
+
+**Layout options (in frontmatter):**
+- `color:` - Color scheme (e.g., "sky", "navy")
+- `align:` - Content alignment (e.g., "lt" for left-top)
+- `columns:` - Column width (e.g., "is-6")
+
+**Slots for content:**
+- Default slot for main content
+- Named slots: `::title::`, `::left::`, `::right::` depending on layout
 
 **Common patterns:**
 ```markdown
@@ -50,12 +71,30 @@ layout: cover
 # Slide Title
 
 ---
-layout: two-cols
+layout: two-cols-title
+columns: is-6
 ---
-# Left Column
-::right::
-# Right Column
+:: title ::
+# My Title
+
+:: left ::
+Left content
+
+:: right ::
+Right content
 ```
+
+**Available components:**
+- `<Admonition>` - Highlighted boxes with title and icon
+- `<SpeechBubble>` - Configurable speech bubbles
+- `<StickyNote>` - Sticky note styled elements
+- `<QRCode>` - QR code generator
+- `<ArrowDraw>` - Hand-drawn style arrows
+- `<ArrowHeads>` - Multiple arrows pointing at a spot
+- `<Box>` - Rectangle/box shapes
+- `<Line>` - Straight lines
+- `<Thumb>` - Thumbs up/down icons
+- `<CreditScroll>` - Movie-style scrolling credits
 
 ## Development Workflow
 1. Develop and refine content in `skeleton.md`

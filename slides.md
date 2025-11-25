@@ -1,13 +1,12 @@
 ---
-theme: seriph
-background: https://cover.sli.dev
+theme: neversink
 title: What Makes Staff?
 info: |
   ## What Makes Staff?
   Influence, Impact, and the Path Beyond Senior
-class: text-center
 transition: slide-left
 mdc: true
+layout: cover
 ---
 
 # What Makes Staff?
@@ -364,7 +363,7 @@ This framework ties together the behaviors we'll discuss. Each behavior contribu
 -->
 
 ---
-layout: statement
+layout: section
 ---
 
 # Finding the Right Leverage Points
@@ -419,7 +418,7 @@ This is social mastery in action. You can have the best technical solution, but 
 -->
 
 ---
-layout: statement
+layout: section
 ---
 
 # Executing with Impact
@@ -474,7 +473,7 @@ The organization's needs change constantly. Staff engineers who can't adapt beco
 -->
 
 ---
-layout: statement
+layout: section
 ---
 
 # Multiplying Others' Effectiveness
@@ -622,7 +621,7 @@ Start acting like a Staff engineer before you have the title. Find the cross-tea
 -->
 
 ---
-layout: statement
+layout: section
 ---
 
 # The Single Most Effective Thing You Can Do
