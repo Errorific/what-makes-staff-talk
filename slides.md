@@ -1,635 +1,779 @@
 ---
-# try also 'default' to start simple
 theme: seriph
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
-# some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: What Makes Staff?
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
-# apply UnoCSS classes to the current slide
+  ## What Makes Staff?
+  Influence, Impact, and the Path Beyond Senior
 class: text-center
-# https://sli.dev/features/drawing
-drawings:
-  persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
-# enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 ---
 
-# Welcome to Slidev
+# What Makes Staff?
 
-Presentation slides for developers
-
-<div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
-  Press Space for next page <carbon:arrow-right />
-</div>
-
-<div class="abs-br m-6 text-xl">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="slidev-icon-btn">
-    <carbon:edit />
-  </button>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
-    <carbon:logo-github />
-  </a>
-</div>
+## Influence, Impact, and the Path Beyond Senior
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+The jump from Senior to Staff Engineer isn't just a promotion - it's a fundamental shift in how you create value for the organization.
 -->
 
 ---
-transition: fade-out
+layout: section
 ---
 
-# What is Slidev?
-
-Slidev is a slides maker and presenter designed for developers, consist of the following features
-
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - themes can be shared and re-used as npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embed Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export to PDF, PPTX, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - virtually anything that's possible on a webpage is possible in Slidev
-<br>
-<br>
-
-Read more about [Why Slidev?](https://sli.dev/guide/why)
+# What is a Staff Engineer?
 
 <!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/features/slide-scope-style
--->
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-<!--
-Here is another comment.
+Section 1: Introduction / Overview (3-4 minutes)
 -->
 
 ---
-transition: slide-up
-level: 2
----
 
-# Navigation
+# What is a Staff Engineer?
 
-Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/ui#navigation-bar)
-
-## Keyboard Shortcuts
-
-|                                                     |                             |
-| --------------------------------------------------- | --------------------------- |
-| <kbd>right</kbd> / <kbd>space</kbd>                 | next animation or slide     |
-| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
-| <kbd>up</kbd>                                       | previous slide              |
-| <kbd>down</kbd>                                     | next slide                  |
-
-<!-- https://sli.dev/guide/animations.html#click-animation -->
-<img
-  v-click
-  class="absolute -bottom-9 -left-7 w-80 opacity-50"
-  src="https://sli.dev/assets/arrow-bottom-left.svg"
-  alt=""
-/>
-<p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
-
----
-layout: two-cols
-layoutClass: gap-16
----
-
-# Table of contents
-
-You can use the `Toc` component to generate a table of contents for your slides:
-
-```html
-<Toc minDepth="1" maxDepth="1" />
-```
-
-The title will be inferred from your slide content, or you can override it with `title` and `level` in your frontmatter.
-
-::right::
-
-<Toc text-sm minDepth="1" maxDepth="2" />
-
----
-layout: image-right
-image: https://cover.sli.dev
----
-
-# Code
-
-Use code snippets and get the highlighting directly, and even types hover!
-
-```ts [filename-example.ts] {all|4|6|6-7|9|all} twoslash
-// TwoSlash enables TypeScript hover information
-// and errors in markdown code blocks
-// More at https://shiki.style/packages/twoslash
-import { computed, ref } from 'vue'
-
-const count = ref(0)
-const doubled = computed(() => count.value * 2)
-
-doubled.value = 2
-```
-
-<arrow v-click="[4, 5]" x1="350" y1="310" x2="195" y2="342" color="#953" width="2" arrowSize="1" />
-
-<!-- This allow you to embed external code blocks -->
-<<< @/snippets/external.ts#snippet
-
-<!-- Footer -->
-
-[Learn more](https://sli.dev/features/line-highlighting)
-
-<!-- Inline style -->
-<style>
-.footnotes-sep {
-  @apply mt-5 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
-</style>
+- The level beyond Senior where you're **no longer bound to a single team**
+- Technical leadership **without direct reports**
+- Lead through influence, technical direction, and expertise
 
 <!--
-Notes can also sync with clicks
-
-[click] This will be highlighted after the first click
-
-[click] Highlighted with `count = ref(0)`
-
-[click:3] Last click (skip two clicks)
+This is where the IC track diverges from management. You're still an individual contributor, but your scope has expanded dramatically.
 -->
 
 ---
-level: 2
----
 
-# Shiki Magic Move
+# Impact Radius
 
-Powered by [shiki-magic-move](https://shiki-magic-move.netlify.app/), Slidev supports animations across multiple code snippets.
+| Level | Scope |
+|-------|-------|
+| **Staff** | Zone level or beyond |
+| **Principal** | Wider radius, multiple horizons into the future |
+| **Distinguished** | Company-wide impact, long-term strategic thinking |
 
-Add multiple code blocks and wrap them with <code>````md magic-move</code> (four backticks) to enable the magic move. For example:
-
-````md magic-move {lines: true}
-```ts {*|2|*}
-// step 1
-const author = reactive({
-  name: 'John Doe',
-  books: [
-    'Vue 2 - Advanced Guide',
-    'Vue 3 - Basic Guide',
-    'Vue 4 - The Mystery'
-  ]
-})
-```
-
-```ts {*|1-2|3-4|3-4,8}
-// step 2
-export default {
-  data() {
-    return {
-      author: {
-        name: 'John Doe',
-        books: [
-          'Vue 2 - Advanced Guide',
-          'Vue 3 - Basic Guide',
-          'Vue 4 - The Mystery'
-        ]
-      }
-    }
-  }
-}
-```
-
-```ts
-// step 3
-export default {
-  data: () => ({
-    author: {
-      name: 'John Doe',
-      books: [
-        'Vue 2 - Advanced Guide',
-        'Vue 3 - Basic Guide',
-        'Vue 4 - The Mystery'
-      ]
-    }
-  })
-}
-```
-
-Non-code blocks are ignored.
-
-```vue
-<!-- step 4 -->
-<script setup>
-const author = {
-  name: 'John Doe',
-  books: [
-    'Vue 2 - Advanced Guide',
-    'Vue 3 - Basic Guide',
-    'Vue 4 - The Mystery'
-  ]
-}
-</script>
-```
-````
-
----
-
-# Components
-
-<div grid="~ cols-2 gap-4">
-<div>
-
-You can use Vue components directly inside your slides.
-
-We have provided a few built-in components like `<Tweet/>` and `<Youtube/>` that you can use directly. And adding your custom components is also super easy.
-
-```html
-<Counter :count="10" />
-```
-
-<!-- ./components/Counter.vue -->
-<Counter :count="10" m="t-4" />
-
-Check out [the guides](https://sli.dev/builtin/components.html) for more.
-
-</div>
-<div>
-
-```html
-<Tweet id="1390115482657726468" />
-```
-
-<Tweet id="1390115482657726468" scale="0.65" />
-
-</div>
-</div>
+The minimum bar for Staff is **zone-level or organizational impact**.
 
 <!--
-Presenter note with **bold**, *italic*, and ~~striked~~ text.
-
-Also, HTML elements are valid:
-<div class="flex w-full">
-  <span style="flex-grow: 1;">Left content</span>
-  <span>Right content</span>
-</div>
+Impact radius is the key differentiator between levels. Staff is the first level where you're expected to have impact beyond your immediate team.
 -->
 
 ---
-class: px-20
----
 
-# Themes
+# Autonomy at Staff Level
 
-Slidev comes with powerful theming support. Themes can provide styles, layouts, components, or even configurations for tools. Switching between themes by just **one edit** in your frontmatter:
+- Identify and discover high-impact problems worth solving
+- Manage their own time budget
+- Apply themselves where they'll be most effective
+- Operate without needing direction on what to work on
 
-<div grid="~ cols-2 gap-2" m="t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true" alt="">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true" alt="">
-
-</div>
-
-Read more about [How to use a theme](https://sli.dev/guide/theme-addon#use-theme) and
-check out the [Awesome Themes Gallery](https://sli.dev/resources/theme-gallery).
+<!--
+At Staff level, no one is assigning you work. You're expected to find the most important problems and solve them.
+-->
 
 ---
 
-# Clicks Animations
+# Staff Engineer vs. Engineering Manager
 
-You can add `v-click` to elements to add a click animation.
+Staff engineers may lead teams on specific projects, but they are **not** Engineering Managers.
 
-<div v-click>
+| Staff Engineer | Engineering Manager |
+|----------------|---------------------|
+| No performance reviews | Owns career development & evaluation |
+| No hiring authority | Manages headcount & hiring |
+| No admin overhead | Budgets, timecards, HR processes |
+| Mentoring-focused 1:1s | Personnel management 1:1s |
 
-This shows up when you click the slide:
-
-```html
-<div v-click>This shows up when you click the slide.</div>
-```
-
-</div>
-
-<br>
-
-<v-click>
-
-The <span v-mark.red="3"><code>v-mark</code> directive</span>
-also allows you to add
-<span v-mark.circle.orange="4">inline marks</span>
-, powered by [Rough Notation](https://roughnotation.com/):
-
-```html
-<span v-mark.underline.orange>inline markers</span>
-```
-
-</v-click>
-
-<div mt-20 v-click>
-
-[Learn more](https://sli.dev/guide/animations#click-animation)
-
-</div>
+<!--
+This is a common point of confusion. Staff engineers can direct work, but they don't have organizational authority over people.
+-->
 
 ---
 
-# Motions
+# A Note on Terminology
 
-Motion animations are powered by [@vueuse/motion](https://motion.vueuse.org/), triggered by `v-motion` directive.
+Different companies define "Staff Engineer" differently:
 
-```html
-<div
-  v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }"
-  :click-3="{ x: 80 }"
-  :leave="{ x: 1000 }"
->
-  Slidev
-</div>
-```
+- **Our definition**: First level beyond Senior where you operate across teams with zone/org-level impact
 
-<div class="w-60 relative">
-  <div class="relative w-40 h-40">
-    <img
-      v-motion
-      :initial="{ x: 800, y: -100, scale: 1.5, rotate: -50 }"
-      :enter="final"
-      class="absolute inset-0"
-      src="https://sli.dev/logo-square.png"
-      alt=""
-    />
-    <img
-      v-motion
-      :initial="{ y: 500, x: -100, scale: 2 }"
-      :enter="final"
-      class="absolute inset-0"
-      src="https://sli.dev/logo-circle.png"
-      alt=""
-    />
-    <img
-      v-motion
-      :initial="{ x: 600, y: 400, scale: 2, rotate: 100 }"
-      :enter="final"
-      class="absolute inset-0"
-      src="https://sli.dev/logo-triangle.png"
-      alt=""
-    />
-  </div>
+- **Some companies**: Staff is a "super senior" on a single team, only graduating to Principal+ for cross-team work
 
-  <div
-    class="text-5xl absolute top-14 left-40 text-[#2B90B6] -z-1"
-    v-motion
-    :initial="{ x: -80, opacity: 0}"
-    :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
-    Slidev
-  </div>
-</div>
+Throughout this presentation, we use the first definition.
 
-<!-- vue script setup scripts can be directly used in markdown, and will only affects current page -->
-<script setup lang="ts">
-const final = {
-  x: 0,
-  y: 0,
-  rotate: 0,
-  scale: 1,
-  transition: {
-    type: 'spring',
-    damping: 10,
-    stiffness: 20,
-    mass: 2
-  }
-}
-</script>
+<!--
+Important to set expectations. If your company uses a different definition, mentally map to whatever level first operates across team boundaries.
+-->
 
-<div
-  v-motion
-  :initial="{ x:35, y: 30, opacity: 0}"
-  :enter="{ y: 0, opacity: 1, transition: { delay: 3500 } }">
+---
+layout: section
+---
 
-[Learn more](https://sli.dev/guide/animations.html#motion)
+# What Differentiates Staff from Senior?
 
-</div>
+<!--
+Section 2: Differentiators (6-7 minutes)
+-->
 
 ---
 
-# LaTeX
+# Impact Radius & Scope
 
-LaTeX is supported out-of-box. Powered by [KaTeX](https://katex.org/).
+| | Senior | Staff |
+|---|--------|-------|
+| **Impact** | Within their team | Zone/org level |
+| **Focus** | What they can individually build | Multiplying impact of others |
+| **Execution** | Shipping features | Setting patterns and direction |
 
-<div h-3 />
+When Staff engineers build, they're establishing **"how we do things here"**.
 
-Inline $\sqrt{3x-1}+(1+x)^2$
-
-Block
-$$ {1|3|all}
-\begin{aligned}
-\nabla \cdot \vec{E} &= \frac{\rho}{\varepsilon_0} \\
-\nabla \cdot \vec{B} &= 0 \\
-\nabla \times \vec{E} &= -\frac{\partial\vec{B}}{\partial t} \\
-\nabla \times \vec{B} &= \mu_0\vec{J} + \mu_0\varepsilon_0\frac{\partial\vec{E}}{\partial t}
-\end{aligned}
-$$
-
-[Learn more](https://sli.dev/features/latex)
+<!--
+The fundamental shift is from individual output to organizational impact. When you code as a Staff engineer, you're not just solving the problem - you're showing the way.
+-->
 
 ---
 
-# Diagrams
+# The Mastery Progression
 
-You can create diagrams / graphs from textual descriptions, directly in your Markdown.
+- **Senior Engineer**: Approaching technical mastery
 
-<div class="grid grid-cols-4 gap-5 pt-4 -mb-6">
+- **Staff Engineer**: Approaching social mastery
+  - Building consensus, influencing without authority, navigating org dynamics
 
-```mermaid {scale: 0.5, alt: 'A simple sequence diagram'}
-sequenceDiagram
-    Alice->John: Hello John, how are you?
-    Note over Alice,John: A typical interaction
-```
+- **Principal Engineer**: Approaching business mastery
 
-```mermaid {theme: 'neutral', scale: 0.8}
-graph TD
-B[Text] --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```mermaid
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```
-
-```plantuml {scale: 0.7}
-@startuml
-
-package "Some Group" {
-  HTTP - [First Component]
-  [Another Component]
-}
-
-node "Other Groups" {
-  FTP - [Second Component]
-  [First Component] --> FTP
-}
-
-cloud {
-  [Example 1]
-}
-
-database "MySql" {
-  folder "This is my folder" {
-    [Folder 3]
-  }
-  frame "Foo" {
-    [Frame 4]
-  }
-}
-
-[Another Component] --> [Example 1]
-[Example 1] --> [Folder 3]
-[Folder 3] --> [Frame 4]
-
-@enduml
-```
-
-</div>
-
-Learn more: [Mermaid Diagrams](https://sli.dev/features/mermaid) and [PlantUML Diagrams](https://sli.dev/features/plantuml)
-
----
-foo: bar
-dragPos:
-  square: 691,32,167,_,-16
----
-
-# Draggable Elements
-
-Double-click on the draggable elements to edit their positions.
-
-<br>
-
-###### Directive Usage
-
-```md
-<img v-drag="'square'" src="https://sli.dev/logo.png">
-```
-
-<br>
-
-###### Component Usage
-
-```md
-<v-drag text-3xl>
-  <div class="i-carbon:arrow-up" />
-  Use the `v-drag` component to have a draggable container!
-</v-drag>
-```
-
-<v-drag pos="663,206,261,_,-15">
-  <div text-center text-3xl border border-main rounded>
-    Double-click me!
-  </div>
-</v-drag>
-
-<img v-drag="'square'" src="https://sli.dev/logo.png">
-
-###### Draggable Arrow
-
-```md
-<v-drag-arrow two-way />
-```
-
-<v-drag-arrow pos="67,452,253,46" two-way op70 />
-
----
-src: ./pages/imported-slides.md
-hide: false
----
+<!--
+This is one of the most important concepts. The skills that got you to Senior won't get you to Staff. You need to develop a whole new set of capabilities around influence and organizational navigation.
+-->
 
 ---
 
-# Monaco Editor
+# Technical Decision Making
 
-Slidev provides built-in Monaco Editor support.
+| | Senior | Staff |
+|---|--------|-------|
+| **Scope** | Within their domain/service | System architecture, cross-team standards |
+| **Time horizon** | 1-2 quarters ahead | Multi-quarter to multi-year |
+| **Trade-offs** | Technical correctness | Deeper expertise + longer time horizons |
 
-Add `{monaco}` to the code block to turn it into an editor:
+<!--
+Staff engineers are expected to think further ahead and consider broader implications. Your decisions affect more people for longer periods.
+-->
 
-```ts {monaco}
-import { ref } from 'vue'
-import { emptyArray } from './external'
+---
 
-const arr = ref(emptyArray(10))
-```
+# From IC to Force Multiplier
 
-Use `{monaco-run}` to create an editor that can execute the code directly in the slide:
+**Senior**: Success = shipping high-quality features and systems
 
-```ts {monaco-run}
-import { version } from 'vue'
-import { emptyArray, sayHello } from './external'
+**Staff**: Success = making multiple teams more effective
 
-sayHello()
-console.log(`vue ${version}`)
-console.log(emptyArray<number>(10).reduce(fib => [...fib, fib.at(-1)! + fib.at(-2)!], [1, 1]))
-```
+How Staff engineers multiply impact:
+- Creating reusable patterns and tools
+- Unblocking multiple teams
+- Raising the technical bar across the organization
+
+<!--
+We'll explore this force multiplier concept in depth later. For now, understand that your value is measured differently at Staff level.
+-->
+
+---
+
+# Influence & Communication
+
+| Senior | Staff |
+|--------|-------|
+| Builds consensus within their team | Builds consensus across teams with competing priorities |
+| Works with immediate stakeholders | Navigates organizational politics and power structures |
+
+Staff engineers must drive change through influence, not authority.
+
+<!--
+You'll be working with people who have different goals, different contexts, and sometimes conflicting priorities. Getting alignment is a core skill.
+-->
+
+---
+
+# Handling Complexity
+
+**Senior**: Navigates technical complexity within known problem spaces
+
+**Staff**: Navigates technical AND organizational complexity across ambiguous problem spaces
+
+Staff engineers need deeper awareness of:
+- Risk and ambiguity
+- Organizational dynamics
+- How technical decisions ripple through the org
+
+<!--
+The problems get fuzzier at Staff level. You're often working without clear requirements, with incomplete information, across organizational boundaries.
+-->
+
+---
+layout: section
+---
+
+# How Staff Engineers Work Differently
+
+<!--
+Section 3: How They Work (6-7 minutes)
+-->
+
+---
+
+# Technical Work
+
+- Time spent coding is **highly variable** (70%, 30%, or less depending on needs)
+- Always in pursuit of technical outcomes - never lose technical skills
+- When they code: Setting patterns, proving concepts, unblocking critical paths
+- More time on: Architecture, design reviews, technical debt strategy
+
+<!--
+Don't let anyone tell you Staff engineers don't code. They do - but the nature of that coding changes. It's more strategic.
+-->
+
+---
+
+# Time & Attention
+
+- Meeting load goes up **substantially**
+- Interrupt-driven work increases - pulled into emerging situations
+- More context switching between teams and problem domains
+- Must protect time for deep work while being available for unblocking
+
+<!--
+Your calendar will look different. This is one of the hardest adjustments - learning to be effective despite constant interruptions.
+-->
+
+---
+
+# Focus Areas
+
+What Staff engineers work on:
+
+- Identify and tackle **ambiguous, organizationally important** problems
+- Create clarity from complexity
+- Raise the technical bar (code quality, testing, architecture patterns)
+- Build systems that scale - technical AND organizational
+
+<!--
+The key word is "organizationally important." You're not just solving hard technical problems - you're solving problems that matter to the business.
+-->
+
+---
+
+# Examples of Org-Level Problems
+
+- Migration strategy for a deprecated platform affecting multiple teams
+
+- Performance bottlenecks impacting customer experience across products
+
+- Technical architecture decisions that will impact hiring and team structure
+
+<!--
+These are the kinds of problems where no single team owns the solution. Someone needs to step up and drive it - that's often the Staff engineer.
+-->
+
+---
+
+# Investing in Engineers
+
+- Active mentorship of engineers across the organization
+- Growing talent in technical skills AND organizational navigation
+- Creating learning opportunities and knowledge sharing
+- Building the next generation of technical leaders
+
+<!--
+Part of being a force multiplier is growing the people around you. Your success is measured partly by how much others improve.
+-->
+
+---
+
+# Communication & Decision Making
+
+**Communication increases significantly:**
+- Written artifacts: RFCs, design docs, ADRs
+- Cross-functional collaboration with PMs, product, executives
+- Translation layer: Making technical concepts accessible
+
+**Decisions become more nuanced:**
+- Not just "what's technically best" but "what's best for the business"
+- Explicitly consider: maintainability, team skills, time-to-market, cost
+- Know when to accumulate technical debt vs. pay it down
+
+<!--
+This ties back to the mastery progression. Staff engineers are developing business awareness - considering business impact in their decisions - even if they don't yet have the full business mastery expected at Principal+.
+-->
+
+---
+layout: section
+---
+
+# The Force Multiplier in Action
+
+## Behaviors and Archetypes
+
+<!--
+Section 4: Force Multiplier - Behaviors & Archetypes (11-13 minutes)
+-->
+
+---
+
+# Staff Engineer Archetypes
+
+Based on Will Larson's "Staff Engineer" book
+
+| Archetype | Focus |
+|-----------|-------|
+| **Tech Lead** | Technical direction for a team/product |
+| **Architect** | Org-wide architecture and standards |
+| **Solver** | Parachutes into critical problems |
+| **Right Hand** | Extends reach of executive leadership |
+| **Networker** | Bridges teams, facilitates collaboration |
+| **Expert** | Deep specialist in critical domain |
+
+<!--
+These aren't job titles - they're patterns of how Staff engineers create value. Most people recognize themselves in one or two of these.
+-->
+
+---
+
+# A Note on Archetypes
+
+**On the journey to Staff**: You typically embody ONE archetype. This is often your path to promotion.
+
+**Once you're Staff**: You flex between archetypes depending on organizational needs.
+
+The role is fluid, not rigid. Most Staff engineers blend multiple archetypes over time.
+
+<!--
+Don't get too attached to one archetype. The best Staff engineers can shift modes based on what the organization needs right now.
+-->
+
+---
+
+# The Force Multiplier Framework
+
+Staff engineers create multiplied impact through three stages:
+
+1. **Finding the Right Leverage Points** - Where will effort have the most impact?
+
+2. **Executing with Impact** - Setting patterns and creating lasting value
+
+3. **Multiplying Others' Effectiveness** - The ultimate measure
+
+<!--
+This framework ties together the behaviors we'll discuss. Each behavior contributes to the multiplier effect.
+-->
+
+---
+layout: statement
+---
+
+# Finding the Right Leverage Points
+
+<!--
+Cluster 1: Staff engineers identify where their effort will have the most impact.
+-->
+
+---
+
+# Proactive Investigation & Discovery
+
+- Seeks out challenges instead of waiting for assignments
+- Investigates problems deeply before proposing solutions
+- Surfaces issues and risks early, even when uncomfortable
+- Asks "why" repeatedly to understand root causes
+
+*Archetypes in action: The Solver identifies bottlenecks, The Right Hand surfaces strategic problems, The Expert spots domain-specific risks*
+
+<!--
+Staff engineers don't wait for problems to be handed to them. They're constantly scanning for where they can have impact.
+-->
+
+---
+
+# Strategic Pragmatism
+
+- Focuses energy on highest-impact problems, says no to low-value work
+- Ships "good enough" when appropriate, perfects when it matters
+- Makes trade-offs explicit and connects to business impact
+- Knows when to accumulate technical debt vs. pay it down
+
+*Archetypes in action: The Architect prioritizes platform work, The Tech Lead balances velocity with quality*
+
+<!--
+This is about knowing where to invest your limited time. Not everything needs to be perfect - but some things absolutely do.
+-->
+
+---
+
+# Navigating Complexity
+
+- Understands how decisions really get made in the organization
+- Knows who needs to be involved and when
+- Reads the room and adapts communication style
+- Escalates appropriately - knows when to raise issues and to whom
+
+*Archetypes in action: The Right Hand navigates executive priorities, The Networker understands org dynamics*
+
+<!--
+This is social mastery in action. You can have the best technical solution, but if you can't navigate the organization, it won't get adopted.
+-->
+
+---
+layout: statement
+---
+
+# Executing with Impact
+
+<!--
+Cluster 2: Once leverage points are identified, Staff engineers execute in ways that set patterns and create lasting value.
+-->
+
+---
+
+# Ownership & Accountability
+
+- Takes responsibility for seeing problems through, even across team boundaries
+- Owns outcomes, not just individual contributions
+- Steps up when something is broken, rather than waiting for assignment
+- Takes the blame when things go wrong, gives credit when things go right
+
+*Archetypes in action: The Solver owns the fix end-to-end, The Tech Lead owns team outcomes*
+
+<!--
+"That's not my job" is not in a Staff engineer's vocabulary. If it's broken and you can help, you help.
+-->
+
+---
+
+# Leading by Example
+
+- Models the behaviors and standards they want to see in others
+- Admits mistakes publicly and shares what they learned
+- Does the unglamorous work without being asked
+- Stays hands-on, never becoming "too senior to code"
+
+*Archetypes in action: The Tech Lead sets code quality standards, The Expert demonstrates technical craftsmanship*
+
+<!--
+Your behavior sets the norm. If you cut corners, others will too. If you write great documentation, others will follow.
+-->
+
+---
+
+# Continuous Adaptation
+
+- Seeks feedback actively and acts on it
+- Comfortable with ambiguity and changing priorities
+- Adapts approach based on what the organization needs, not personal preference
+- Learns from failures and shares those lessons
+
+*Archetypes in action: The Right Hand adapts to shifting priorities, The Solver pivots between problems*
+
+<!--
+The organization's needs change constantly. Staff engineers who can't adapt become blockers instead of multipliers.
+-->
+
+---
+layout: statement
+---
+
+# Multiplying Others' Effectiveness
+
+<!--
+Cluster 3: The ultimate measure of Staff engineers is how much they increase the impact of everyone around them.
+-->
+
+---
+
+# Building Consensus & Influence
+
+- Understands stakeholder needs before proposing solutions
+- Builds relationships before needing them
+- Documents reasoning and trade-offs transparently
+- Disagrees constructively, commits fully once decided
+- Brings people along rather than pushing solutions through
+
+*Archetypes in action: The Networker builds bridges, The Architect gains buy-in for standards*
+
+<!--
+You can't multiply others if they don't trust you or understand your reasoning. Consensus-building is foundational.
+-->
+
+---
+
+# Making Others Effective
+
+- Makes themselves available to unblock others
+- Creates clarity from ambiguity for team and peers
+- Shares knowledge through documentation, not just 1:1s
+- Gives actionable feedback that helps people grow
+
+*Archetypes in action: The Tech Lead unblocks team members, The Expert shares specialized knowledge, The Networker connects people who can help each other*
+
+<!--
+This is the heart of being a force multiplier. When you make 10 engineers 10% more effective, that's more impact than anything you could code yourself.
+-->
+
+---
+
+# What Breaks the Multiplier Effect
+
+Anti-patterns that block Staff-level impact:
+
+- **Lone wolf / Hero complex**: Taking on everything yourself instead of multiplying others
+
+- **Working in the weeds**: Stuck in implementation details instead of force multiplier activities
+
+- **Waiting for perfect information**: Paralyzed by ambiguity instead of moving forward
+
+- **Avoiding conflict**: Not speaking up when you see problems
+
+<!--
+Watch for these in yourself. They're the most common ways Staff engineers fail to reach their potential.
+-->
+
+---
+layout: section
+---
+
+# How Business Value is Realized
+
+<!--
+Section 5: Business Value (2-3 minutes)
+-->
+
+---
+
+# What Staff Engineers Ship
+
+Staff engineers don't ship projects or features.
+
+**They ship engineers, velocity, and quality.**
+
+<!--
+This reframes how to think about Staff engineer value. The output isn't code - it's the capability of the organization.
+-->
+
+---
+
+# How Staff Create Value
+
+**Force Multiplication**
+- Reusable patterns and tools for multiple teams
+- Standards that reduce decision fatigue
+- Platforms that enable others to move faster
+
+**Organizational Leverage**
+- Prevents costly mistakes through early risk identification
+- Reduces tech debt through architectural guidance
+- Connects teams to prevent duplicate work
+
+**Strategic Impact**
+- Aligns technical direction with business goals
+- Build vs. buy decisions optimized for long-term
+- Identifies technical opportunities that unlock business capabilities
+
+<!--
+These three categories capture most of the value Staff engineers create. Notice how little of it is about writing code yourself.
+-->
+
+---
+
+# Understanding Staff Impact
+
+- Not measured by lines of code or tickets closed
+- Measured by: Teams unblocked, decisions that aged well, tech debt prevented
+- Success: Other engineers moving faster, better decisions, fewer incidents
+- Long time horizons: Impact may not be visible for quarters or years
+
+Much of the value is in **what doesn't happen**: outages prevented, bad architectures avoided, teams not blocked.
+
+<!--
+The best Staff engineering work makes hard problems look easy - or makes them disappear entirely. Success often means others get the credit for shipping features you enabled.
+-->
+
+---
+layout: section
+---
+
+# The Path to Staff Level
+
+<!--
+Section 6: Path to Staff (6-7 minutes)
+-->
+
+---
+
+# Finding Staff-Level Work
+
+**Expand Your Impact Radius:**
+
+- Take on problems that affect multiple teams
+- Volunteer for cross-team initiatives and working groups
+- Look for where your team's work intersects with others
+
+**Problem Discovery:**
+- Don't wait for assignments - identify important problems
+- Surface technical debt, risks, and opportunities
+- Practice connecting technical problems to business impact
+
+<!--
+Start acting like a Staff engineer before you have the title. Find the cross-team problems and start solving them.
+-->
+
+---
+layout: statement
+---
+
+# The Single Most Effective Thing You Can Do
+
+## Build Relationships
+
+<!--
+I cannot emphasize this enough. Everything else depends on this.
+-->
+
+---
+
+# Building Your Network
+
+Everything else is contingent on understanding the wider company, understanding hurdles outside your team, and having the right contacts to get involved when opportunity presents itself.
+
+- Develop relationships across teams **before you need them**
+- Attend architecture reviews and planning meetings outside your team
+- Make yourself known as someone who helps and unblocks others
+- Build bridges between teams and departments
+
+<!--
+When an important cross-team problem comes up, you want people to think of you. That only happens if they already know you.
+-->
+
+---
+
+# Developing the Skills
+
+**Seek Mentorship:**
+- Find Staff+ engineers to mentor you
+- Shadow them in design reviews and cross-team meetings
+- Get feedback on your technical vision and communication
+
+**Develop Social Mastery:**
+- Practice building consensus on technical decisions
+- Learn to influence without authority
+- Work on written communication: RFCs, design docs
+- Study how decisions really get made in your org
+
+<!--
+Technical skills got you to Senior. Social mastery gets you to Staff. Both matter, but the new investment is in influence and communication.
+-->
+
+---
+
+# Showing Up at the Next Level
+
+**Demonstrate the Behaviors:**
+- Take ownership beyond your assigned work
+- Lead by example on quality and standards
+- Make others effective through unblocking and mentoring
+
+**Become Indispensable:**
+- Be the person peers turn to for guidance
+- Build a reputation: "we need to get [your name] involved"
+- Be the engineer others can't imagine the org without
+
+<!--
+The promotion recognizes what you're already doing. You need to be operating at Staff level before you get the title.
+-->
+
+---
+
+# Making Your Case
+
+**Document Your Impact:**
+- Track cross-team impact, not just individual contributions
+- Note when you've unblocked teams or influenced direction
+- Collect feedback from peers, other teams, and leadership
+
+**Communicate Your Readiness:**
+- Have explicit conversations with your manager
+- Understand what "good" looks like at Staff in your org
+- Seek feedback on gaps and work to close them
+- Make your Staff-level work visible to decision-makers
+
+<!--
+Don't assume your work speaks for itself. You need to actively build and communicate your case for promotion.
+-->
+
+---
+
+# Timeline & Expectations
+
+- This transition **doesn't happen organically** - it requires deliberate effort
+
+- Expect **1+ years** of investment into showing up at the next level
+
+- This is ON TOP OF years at Senior to build your foundation
+
+- Be patient but intentional - this is a long-term investment
+
+<!--
+There's no shortcut here. Staff is a significant step up, and it takes real time and effort to get there.
+-->
 
 ---
 layout: center
 class: text-center
 ---
 
-# Learn More
+# Questions?
 
-[Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
+<!--
+Q&A slide - remaining time
+-->
 
-<PoweredBySlidev mt-10 />
+---
+layout: section
+---
+
+# Bonus Material
+
+---
+
+# More Anti-Patterns to Watch For
+
+- **Not invented here**: Rejecting solutions because they didn't come from you
+
+- **Ivory tower architecture**: Making decisions without understanding implementation realities
+
+- **Technical purity over pragmatism**: Prioritizing elegant solutions over shipping value
+
+- **Poor upward communication**: Failing to keep leadership informed of risks and progress
+
+- **Credit seeking**: Taking credit for team accomplishments or avoiding blame
+
+<!--
+These are additional anti-patterns beyond the core four we discussed. They're equally damaging to Staff-level effectiveness.
+-->
+
+---
+
+# Path to Staff Checklist
+
+**Finding Work:**
+- [ ] Taking on cross-team problems
+- [ ] Surfacing risks and opportunities proactively
+- [ ] Connecting technical work to business impact
+
+**Building Foundation:**
+- [ ] Relationships across teams and functions
+- [ ] Mentor relationship with Staff+ engineers
+- [ ] Strong written communication (RFCs, design docs)
+
+**Demonstrating Impact:**
+- [ ] Tracking cross-team contributions
+- [ ] Known as someone who unblocks others
+- [ ] Explicit conversations with manager about path
+
+<!--
+Use this as a self-assessment. Which areas are you strong in? Which need work?
+-->

@@ -23,6 +23,12 @@ This is a presentation about staff engineers built using Slidev. The presentatio
 
 ## Tools and Frameworks
 
+### Package Manager
+This project uses **pnpm** (not npm). Always use `pnpm` commands:
+- `pnpm install` - install dependencies
+- `pnpm run dev` - start dev server
+- `pnpm run build` - build for production
+
 ### Slidev
 Slidev is a developer-friendly presentation tool that creates slides from Markdown files.
 
@@ -54,7 +60,7 @@ layout: two-cols
 ## Development Workflow
 1. Develop and refine content in `skeleton.md`
 2. Once content is approved, convert sections into slides in `slides.md`
-3. Preview with `npm run dev` or similar Slidev commands
+3. Preview with `pnpm run dev`
 4. Export final presentation as needed
 
 ## Content Development Process
