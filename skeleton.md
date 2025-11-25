@@ -30,8 +30,8 @@ Staff engineers may have teams working under their direction for specific projec
 
 - **No performance reviews**: EMs own career development and performance evaluation for their reports
 - **No hiring authority**: EMs manage headcount, make hiring decisions, and build teams
-- **No 1:1s or personnel management**: EMs handle team rituals, conflict resolution, and people issues
 - **No administrative overhead**: EMs deal with budgets, timecards, HR processes, and team logistics
+- **Different 1:1s**: Staff engineers do have 1:1s with engineers across the zone, but they're focused on mentoring and information gathering, not personnel management or performance reviews like an EM's 1:1s
 
 Staff engineers lead through influence, technical direction, and expertise—not through organizational authority.
 
@@ -85,13 +85,6 @@ Throughout this presentation, we use the first definition.
 - When they code: Often setting patterns, proving concepts, or unblocking critical paths
 - More time on: Architecture, design reviews, technical debt strategy, raising the bar
 
-**Communication & Alignment:**
-- Both synchronous and asynchronous communication increase significantly
-- Written artifacts: RFCs, design docs, technical strategy docs, ADRs
-- Strategic planning: Driving alignment across different teams, engineers, and stakeholders
-- Cross-functional collaboration: More meetings with PMs, product, executives
-- Translation layer: Making technical concepts accessible to non-technical stakeholders
-
 **Time & Attention:**
 - Meeting load goes up substantially
 - Interrupt-driven work increases - pulled into emerging situations for triage and correction
@@ -115,13 +108,22 @@ Examples of organizationally important problems:
 - Creating learning opportunities and knowledge sharing
 - Building the next generation of technical leaders
 
-**Decision Framework:**
+**Communication, Alignment & Decision Framework:**
+- Both synchronous and asynchronous communication increase significantly
+- Written artifacts: RFCs, design docs, technical strategy docs, ADRs
+- Strategic planning: Driving alignment across different teams, engineers, and stakeholders
+- Cross-functional collaboration: More meetings with PMs, product, executives
+- Translation layer: Making technical concepts accessible to non-technical stakeholders
 - Not just "what's technically best" but "what's best for the business given constraints"
 - Explicitly consider: maintainability, team skills, time-to-market, cost, business impact
 - Know when to accumulate technical debt vs. pay it down
 - Ties back to the mastery progression: Staff engineers are becoming more aware of business impact and must consider it in their actions and plans, but don't yet have the depth of business understanding expected at Principal+ levels
 
-## 4. Staff Engineer Archetypes
+## 4. The Force Multiplier in Action: Behaviors and Archetypes
+
+<!-- PLANNING NOTE: This section merges archetypes and behaviors around the force multiplier framework. In the presentation, archetypes will be introduced briefly then woven throughout as examples. Full archetype details below are for reference. Time allocation: 11-13 minutes. -->
+
+**Staff Engineer Archetypes (Brief Introduction):**
 
 Based on Will Larson's "Staff Engineer" book and common patterns in the industry.
 
@@ -172,19 +174,63 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - **Once you're Staff**: You flex between archetypes depending on organizational needs. The role is fluid, not rigid.
 - Most staff engineers blend multiple archetypes over time as they grow and as the organization's needs change.
 
-## 5. Behaviors That Lift Them Above Peers
+### The Force Multiplier Framework
 
-**Ownership & Accountability:**
-- Takes responsibility for seeing problems through to resolution, even when it crosses team boundaries
-- Owns outcomes, not just their individual contributions
-- Steps up when something is broken or unclear, rather than waiting for someone to assign it
-- Takes the blame when things go wrong, gives credit when things go right
+Staff engineers create multiplied impact through three stages: finding the right leverage points, executing with impact, and multiplying others' effectiveness.
+
+### Cluster 1: Finding the Right Leverage Points
+
+Staff engineers identify where their effort will have the most impact.
 
 **Proactive Investigation & Discovery:**
 - Seeks out the next challenge and opportunity instead of waiting for it to be assigned
 - Investigates problems deeply before proposing solutions
 - Surfaces issues and risks early, even when uncomfortable
 - Asks "why" repeatedly to understand root causes, not just symptoms
+- *Archetypes in action*: The Solver identifies critical bottlenecks, The Right Hand surfaces strategic problems, The Expert spots domain-specific risks
+
+**Strategic Pragmatism:**
+- Focuses energy on highest-impact problems, says no to low-value work
+- Ships "good enough for now" solutions when appropriate, perfects when it matters
+- Makes trade-offs explicit and connects technical decisions to business impact
+- Knows when to accumulate technical debt and when to pay it down
+- *Archetypes in action*: The Architect prioritizes platform work, The Tech Lead balances team velocity with quality, The Solver triages critical vs nice-to-have
+
+**Navigating Complexity (Social Mastery):**
+- Understands how decisions really get made in the organization
+- Knows who needs to be involved and when
+- Reads the room and adapts communication style to the audience
+- Escalates appropriately - knows when to raise issues and to whom
+- *Archetypes in action*: The Right Hand navigates executive priorities, The Networker understands organizational dynamics, The Tech Lead knows when to escalate vs solve
+
+### Cluster 2: Executing with Impact
+
+Once leverage points are identified, Staff engineers execute in ways that set patterns and create lasting value.
+
+**Ownership & Accountability:**
+- Takes responsibility for seeing problems through to resolution, even when it crosses team boundaries
+- Owns outcomes, not just their individual contributions
+- Steps up when something is broken or unclear, rather than waiting for someone to assign it
+- Takes the blame when things go wrong, gives credit when things go right
+- *Archetypes in action*: The Solver owns the fix end-to-end, The Tech Lead owns team outcomes, The Right Hand represents leadership accountability
+
+**Leading by Example:**
+- Models the behaviors and standards they want to see in others
+- Admits mistakes publicly and shares what they learned
+- Does the unglamorous work (documentation, tech debt, maintenance) without being asked
+- Maintains technical skills and stays hands-on, never becoming "too senior to code"
+- *Archetypes in action*: The Tech Lead sets code quality standards, The Expert demonstrates deep technical craftsmanship, The Architect shows good documentation practices
+
+**Continuous Adaptation:**
+- Seeks feedback actively and acts on it
+- Comfortable with ambiguity and changing priorities
+- Adapts their approach based on what the organization needs, not what they prefer
+- Learns from failures and shares those lessons
+- *Archetypes in action*: The Right Hand adapts to shifting executive priorities, The Solver pivots between problems, The Networker adjusts to organizational changes
+
+### Cluster 3: Multiplying Others' Effectiveness
+
+The ultimate measure of Staff engineers is how much they increase the impact of everyone around them.
 
 **Building Consensus & Influence (Social Mastery):**
 - Invests time in understanding stakeholder needs and constraints before proposing solutions
@@ -192,86 +238,57 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - Makes decisions transparent by documenting reasoning and trade-offs
 - Disagrees constructively and commits fully once decisions are made
 - Brings people along rather than pushing solutions through
+- *Archetypes in action*: The Networker builds bridges across teams, The Architect gains buy-in for standards, The Tech Lead aligns team on technical direction
 
 **Making Others Effective (Social Mastery):**
 - Makes themselves available to unblock others, even when it interrupts their own work
 - Creates clarity from ambiguity for their team and peers
 - Shares knowledge broadly through documentation, not just 1:1 conversations
 - Gives actionable feedback that helps people grow
+- *Archetypes in action*: The Tech Lead unblocks team members, The Expert shares specialized knowledge, The Networker connects people who can help each other
 
-**Strategic Pragmatism:**
-- Focuses energy on highest-impact problems, says no to low-value work
-- Ships "good enough for now" solutions when appropriate, perfects when it matters
-- Makes trade-offs explicit and connects technical decisions to business impact
-- Knows when to accumulate technical debt and when to pay it down
+### What Breaks the Multiplier Effect: Key Anti-Patterns
 
-**Leading by Example:**
-- Models the behaviors and standards they want to see in others
-- Admits mistakes publicly and shares what they learned
-- Does the unglamorous work (documentation, tech debt, maintenance) without being asked
-- Maintains technical skills and stays hands-on, never becoming "too senior to code"
+<!-- PLANNING NOTE: Focusing on 4 anti-patterns most relevant to the Staff transition. Other anti-patterns will be moved to bonus slides: Not invented here, Ivory tower architecture, Technical purity over pragmatism, Poor upward communication, Credit seeking. -->
 
-**Navigating Complexity (Social Mastery):**
-- Understands how decisions really get made in the organization
-- Knows who needs to be involved and when
-- Reads the room and adapts communication style to the audience
-- Escalates appropriately - knows when to raise issues and to whom
+**Anti-Patterns That Block Staff-Level Impact:**
 
-**Continuous Adaptation:**
-- Seeks feedback actively and acts on it
-- Comfortable with ambiguity and changing priorities
-- Adapts their approach based on what the organization needs, not what they prefer
-- Learns from failures and shares those lessons
-
-**Anti-Patterns (Behaviors That Hold Engineers Back):**
-
+- **Lone wolf / Hero complex**: Working in isolation and taking on everything themselves instead of building consensus and multiplying others' impact
+- **Working in the weeds**: Getting stuck in implementation details instead of focusing on force multiplier activities
 - **Waiting for perfect information**: Paralyzed by ambiguity instead of moving forward with imperfect data
-- **Lone wolf syndrome**: Solving problems in isolation instead of building consensus
-- **Not invented here**: Rejecting solutions because they didn't come up with them
-- **Ivory tower architecture**: Making technical decisions without understanding implementation realities
-- **Hero complex**: Taking on everything themselves instead of multiplying others' impact
-- **Technical purity over pragmatism**: Prioritizing elegant solutions over shipping value
-- **Poor upward communication**: Failing to keep leadership informed of risks and progress
 - **Avoiding conflict**: Not speaking up when they see problems to avoid discomfort
-- **Working in the weeds**: Getting stuck in implementation details instead of focusing on impact
-- **Credit seeking**: Taking credit for team accomplishments or avoiding blame when things fail
 
-## 6. How Business Value is Realized from Staff Engineers
+## 5. How Business Value is Realized from Staff Engineers
 
-<!-- NOTE: This section could be expanded, but we may be running out of space in the presentation. Revisit later. -->
+<!-- PLANNING NOTE: Time allocation 2-3 minutes. Core message: Staff ship engineers, velocity, and quality - not projects or features. -->
 
-**Force Multiplication - Making Teams More Effective:**
-- Creates reusable patterns and tools that multiple teams can leverage
-- Unblocks multiple teams by solving shared infrastructure problems
-- Establishes standards that reduce decision fatigue and increase velocity
-- Builds platforms that enable other engineers to move faster
+**How Staff Engineers Create Value:**
 
-**Organizational Leverage:**
-- Prevents costly mistakes by identifying risks early in the design phase
-- Reduces technical debt accumulation through architectural guidance
-- Accelerates onboarding and knowledge transfer through documentation
-- Connects teams working on related problems, preventing duplicate work
+Staff engineers don't ship projects or features - they ship engineers, velocity, and quality.
 
-**Strategic Impact:**
-- Aligns technical direction with business goals, ensuring engineering effort drives value
-- Makes build vs. buy decisions that optimize for long-term cost and capability
-- Identifies technical opportunities that unlock new business capabilities
-- Reduces time-to-market for features through better architecture and tooling
+- **Force Multiplication**: Creates reusable patterns and tools that multiple teams can leverage. Unblocks multiple teams by solving shared infrastructure problems. Establishes standards that reduce decision fatigue and increase velocity. Builds platforms that enable other engineers to move faster.
 
-**Measuring Staff Engineer Impact:**
+- **Organizational Leverage**: Prevents costly mistakes by identifying risks early in the design phase. Reduces technical debt accumulation through architectural guidance. Accelerates onboarding and knowledge transfer through documentation. Connects teams working on related problems, preventing duplicate work.
+
+- **Strategic Impact**: Aligns technical direction with business goals, ensuring engineering effort drives value. Makes build vs. buy decisions that optimize for long-term cost and capability. Identifies technical opportunities that unlock new business capabilities. Reduces time-to-market for features through better architecture and tooling.
+
+**Understanding Staff Engineer Impact:**
+
 - Not measured by lines of code or tickets closed
 - Measured by: Teams unblocked, architectural decisions that aged well, technical debt prevented
 - Success looks like: Other engineers moving faster, better decision-making across teams, reduced incidents
 - Long time horizons: Impact may not be visible for quarters or years
-
-**The Invisible Work:**
 - Much of the value is in what doesn't happen: outages prevented, bad architectures avoided, teams not blocked
 - The best staff engineering work often makes hard problems look easy or makes problems disappear entirely
 - Success often means others get credit for shipping features that the Staff engineer enabled
 
-## 7. The Path to Staff Level
+## 6. The Path to Staff Level
+
+<!-- PLANNING NOTE: Time allocation 6-7 minutes. Group 10 subsections into 5 clusters. Emphasize relationship building as the foundation everything else depends on. -->
 
 **Building the Foundation (While Still Senior):**
+
+### Finding Staff-Level Work
 
 **Expand Your Impact Radius:**
 - Start taking on problems that affect multiple teams, not just your own
@@ -284,6 +301,10 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - Start finding work outside your typical assignments that needs doing
 - Surface technical debt, risks, and opportunities to leadership
 - Practice connecting technical problems to business impact
+
+### Building Relationships and Skills (Most Critical)
+
+The single most effective thing you can do: build relationships. Everything else is contingent on understanding the wider company, understanding hurdles outside of your team, and having the right contacts to get yourself involved when opportunity presents itself.
 
 **Build Your Network:**
 - Develop relationships across teams and functions before you need them
@@ -303,6 +324,8 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - Work on written communication: RFCs, design docs, technical proposals
 - Study how decisions really get made in your organization
 
+### Showing Up at the Next Level
+
 **Demonstrate the Behaviors:**
 - Take ownership beyond your assigned work
 - Lead by example on code quality, documentation, and technical standards
@@ -314,6 +337,8 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - Build a reputation where people think "we need to get [your name] involved"
 - Be the engineer others can't imagine the organization functioning without
 <!-- NOTE: Add personal stories during slide creation -->
+
+### Making Your Case
 
 **Document Your Impact:**
 - Keep track of cross-team impact, not just your individual contributions
@@ -327,7 +352,8 @@ Based on Will Larson's "Staff Engineer" book and common patterns in the industry
 - Seek feedback on gaps and work to close them
 - Make your Staff-level work visible to decision-makers
 
-**Timeline & Expectations:**
+### Timeline & Expectations
+
 - This transition doesn't happen organically - it requires deliberate effort
 - Expect 1+ years of investment into shaping your impact and showing up at the next level
 - This is ON TOP OF years of investment at Senior level to shore up your impact and skills there

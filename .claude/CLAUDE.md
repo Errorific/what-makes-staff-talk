@@ -3,10 +3,23 @@
 ## Project Overview
 This is a presentation about staff engineers built using Slidev. The presentation covers what differentiates staff engineers from senior engineers, how they work differently, different archetypes, and the behaviors that lift them above their peers.
 
+## Timing Requirements
+- Total session slot: 45 minutes
+- Q&A at the end
+- Account for potential AV issues/late arrivals at start
+- **Target presentation duration: 35-40 minutes**
+
 ## Key Files
 - `skeleton.md` - Raw content scaffold and notes for the presentation. This is where we develop and refine content before moving it into slides
 - `slides.md` - The actual Slidev presentation file (markdown format)
+- `tasks.md` - Project task list and workflow tracking
 - `.claude/CLAUDE.md` - This file. Project-specific context and instructions
+
+## Task Management
+- Follow the plan outlined in `tasks.md`
+- Mark tasks as complete with [x] as we finish them
+- When new tasks emerge during work, suggest adding them to `tasks.md` in the appropriate phase
+- Keep task list updated throughout the project
 
 ## Tools and Frameworks
 
