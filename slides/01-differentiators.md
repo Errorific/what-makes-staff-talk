@@ -34,6 +34,8 @@ The fundamental shift is from individual output to organizational impact. When y
   - Building consensus, influencing without authority, navigating org dynamics
 
 - **Principal Engineer**: Approaching business mastery
+  - Tuning the engineering org to match business requirements
+  - Surfacing business opportunities that engineering is positioned to accelerate
 
 <!--
 This is one of the most important concepts. The skills that got you to Senior won't get you to Staff. You need to develop a whole new set of capabilities around influence and organizational navigation.
@@ -46,8 +48,8 @@ This is one of the most important concepts. The skills that got you to Senior wo
 | | Senior | Staff |
 |---|--------|-------|
 | **Scope** | Within their domain/service | System architecture, cross-team standards |
-| **Time horizon** | 1-2 quarters ahead | Multi-quarter to multi-year |
-| **Trade-offs** | Technical correctness | Deeper expertise + longer time horizons |
+| **Time horizon** | 1-2 quarters ahead | 6 months to a year, sometimes beyond |
+| **Trade-offs** | Technical correctness for immediate problem | Balance quality, business impact, team capability, maintainability |
 
 <!--
 Staff engineers are expected to think further ahead and consider broader implications. Your decisions affect more people for longer periods.
@@ -62,9 +64,12 @@ Staff engineers are expected to think further ahead and consider broader implica
 **Staff**: Success = making multiple teams more effective
 
 How Staff engineers multiply impact:
-- Creating reusable patterns and tools
-- Unblocking multiple teams
-- Raising the technical bar across the organization
+- Mentoring and guiding engineers across teams
+- Advising on technical decisions and architecture
+- Creating reusable patterns, tools, and platforms
+- Unblocking and aligning multiple teams
+- Raising technical standards across the zone/org
+- Exploring problem spaces to surface ambitious solutions
 
 <!--
 We'll explore this force multiplier concept in depth later. For now, understand that your value is measured differently at Staff level.
@@ -72,16 +77,19 @@ We'll explore this force multiplier concept in depth later. For now, understand 
 
 ---
 
-# Influence & Communication
+# Communication & Representation
 
 | Senior | Staff |
 |--------|-------|
-| Builds consensus within their team | Builds consensus across teams with competing priorities |
-| Works with immediate stakeholders | Navigates organizational politics and power structures |
-
-Staff engineers must drive change through influence, not authority.
+| Represents and advocates for their team | Balances competing needs across teams |
+| Defends their team's plans and requirements | Finds solutions that maximize organizational value |
+| Seeks alignment with other teams | Synthesizes disparate priorities into coherent direction |
+| Judges solutions by how they improve the service | Judges solutions by how they advance organizational objectives |
+| Communicates primarily with immediate stakeholders | Communicates across zones and with leadership |
 
 <!--
+TODO: Revisit this slide - still feels off. The core distinction is about Senior as team advocate (squeaky wheel) vs Staff balancing multiple teams' needs to find org-level value.
+
 You'll be working with people who have different goals, different contexts, and sometimes conflicting priorities. Getting alignment is a core skill.
 -->
 
