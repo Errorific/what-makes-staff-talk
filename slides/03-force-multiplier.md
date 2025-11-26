@@ -16,14 +16,19 @@ Section 4: Force Multiplier - Behaviors & Archetypes (11-13 minutes)
 
 Based on Will Larson's "Staff Engineer" book
 
-| Archetype | Focus |
-|-----------|-------|
-| **Tech Lead** | Technical direction for a team/product |
-| **Architect** | Org-wide architecture and standards |
-| **Solver** | Parachutes into critical problems |
-| **Right Hand** | Extends reach of executive leadership |
-| **Networker** | Bridges teams, facilitates collaboration |
-| **Expert** | Deep specialist in critical domain |
+<table>
+<thead>
+<tr><th>Archetype</th><th>Focus</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Tech Lead</strong></td><td>Technical direction for a team/product</td></tr>
+<tr><td><strong>Architect</strong></td><td>Org-wide architecture and standards</td></tr>
+<tr><td><strong>Solver</strong></td><td>Parachutes into critical problems</td></tr>
+<tr><td><strong>Right Hand</strong></td><td>Extends reach of executive leadership</td></tr>
+<tr v-click><td><strong>Socialite</strong></td><td>Bridges teams, facilitates collaboration</td></tr>
+<tr v-click><td><strong>Expert</strong></td><td>Deep specialist in critical domain</td></tr>
+</tbody>
+</table>
 
 <!--
 These aren't job titles - they're patterns of how Staff engineers create value. Most people recognize themselves in one or two of these.
@@ -41,22 +46,6 @@ The role is fluid, not rigid. Most Staff engineers blend multiple archetypes ove
 
 <!--
 Don't get too attached to one archetype. The best Staff engineers can shift modes based on what the organization needs right now.
--->
-
----
-
-# The Force Multiplier Framework
-
-Staff engineers create multiplied impact through three stages:
-
-1. **Finding the Right Leverage Points** - Where will effort have the most impact?
-
-2. **Executing with Impact** - Setting patterns and creating lasting value
-
-3. **Multiplying Others' Effectiveness** - The ultimate measure
-
-<!--
-This framework ties together the behaviors we'll discuss. Each behavior contributes to the multiplier effect.
 -->
 
 ---
@@ -108,7 +97,7 @@ This is about knowing where to invest your limited time. Not everything needs to
 - Reads the room and adapts communication style
 - Escalates appropriately - knows when to raise issues and to whom
 
-*Archetypes in action: The Right Hand navigates executive priorities, The Networker understands org dynamics*
+*Archetypes in action: The Right Hand navigates executive priorities, The Socialite understands org dynamics*
 
 <!--
 This is social mastery in action. You can have the best technical solution, but if you can't navigate the organization, it won't get adopted.
@@ -173,7 +162,7 @@ The organization's needs change constantly. Staff engineers who can't adapt beco
 layout: section
 ---
 
-# Multiplying Others' Effectiveness
+# Lifting Those Around You
 
 <!--
 Cluster 3: The ultimate measure of Staff engineers is how much they increase the impact of everyone around them.
@@ -189,7 +178,7 @@ Cluster 3: The ultimate measure of Staff engineers is how much they increase the
 - Disagrees constructively, commits fully once decided
 - Brings people along rather than pushing solutions through
 
-*Archetypes in action: The Networker builds bridges, The Architect gains buy-in for standards*
+*Archetypes in action: The Socialite builds bridges, The Architect gains buy-in for standards*
 
 <!--
 You can't multiply others if they don't trust you or understand your reasoning. Consensus-building is foundational.
@@ -204,10 +193,26 @@ You can't multiply others if they don't trust you or understand your reasoning. 
 - Shares knowledge through documentation, not just 1:1s
 - Gives actionable feedback that helps people grow
 
-*Archetypes in action: The Tech Lead unblocks team members, The Expert shares specialized knowledge, The Networker connects people who can help each other*
+*Archetypes in action: The Tech Lead unblocks team members, The Expert shares specialized knowledge, The Socialite connects people who can help each other*
 
 <!--
 This is the heart of being a force multiplier. When you make 10 engineers 10% more effective, that's more impact than anything you could code yourself.
+-->
+
+---
+
+# Putting It Together
+
+Staff engineers create multiplied impact through three stages:
+
+1. **Finding the Right Leverage Points** - Where will effort have the most impact?
+
+2. **Executing with Impact** - Setting patterns and creating lasting value
+
+3. **Lifting Those Around You** - Bringing others with you on the journey
+
+<!--
+Recap slide - now that they've seen all the behaviors, this ties them together into a coherent framework.
 -->
 
 ---
