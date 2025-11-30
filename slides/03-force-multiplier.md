@@ -97,7 +97,7 @@ This is about knowing where to invest your limited time. Not everything needs to
 - Reads the room and adapts communication style
 - Escalates appropriately - knows when to raise issues and to whom
 
-*Archetypes in action: The Right Hand navigates executive priorities, The Socialite understands org dynamics*
+*Archetypes in action: The Right Hand navigates executive priorities, The Architect builds relationships across teams to drive adoption*
 
 <!--
 This is social mastery in action. You can have the best technical solution, but if you can't navigate the organization, it won't get adopted.
@@ -137,7 +137,7 @@ Cluster 2: Once leverage points are identified, Staff engineers execute in ways 
 - Does the unglamorous work without being asked
 - Stays hands-on, never becoming "too senior to code"
 
-*Archetypes in action: The Tech Lead sets code quality standards, The Expert demonstrates technical craftsmanship*
+*Archetypes in action: The Tech Lead sets code quality standards, The Architect demonstrates technical craftsmanship through reference implementations*
 
 <!--
 Your behavior sets the norm. If you cut corners, others will too. If you write great documentation, others will follow.
@@ -149,7 +149,7 @@ Your behavior sets the norm. If you cut corners, others will too. If you write g
 
 - Seeks feedback actively and acts on it
 - Comfortable with ambiguity and changing priorities
-- Adapts approach based on what the organization needs, not personal preference
+- Optimizes for organizational outcomes over team or service-level goals
 - Learns from failures and shares those lessons
 
 *Archetypes in action: The Right Hand adapts to shifting priorities, The Solver pivots between problems*
@@ -178,7 +178,7 @@ Cluster 3: The ultimate measure of Staff engineers is how much they increase the
 - Disagrees constructively, commits fully once decided
 - Brings people along rather than pushing solutions through
 
-*Archetypes in action: The Socialite builds bridges, The Architect gains buy-in for standards*
+*Archetypes in action: The Right Hand builds bridges across leadership, The Architect gains buy-in for standards*
 
 <!--
 You can't multiply others if they don't trust you or understand your reasoning. Consensus-building is foundational.
@@ -190,10 +190,10 @@ You can't multiply others if they don't trust you or understand your reasoning. 
 
 - Makes themselves available to unblock others
 - Creates clarity from ambiguity for team and peers
-- Shares knowledge through documentation, not just 1:1s
+- Shares knowledge by working in plain sight and through documentation, not just 1:1s
 - Gives actionable feedback that helps people grow
 
-*Archetypes in action: The Tech Lead unblocks team members, The Expert shares specialized knowledge, The Socialite connects people who can help each other*
+*Archetypes in action: The Tech Lead unblocks team members, The Architect shares system-wide context, The Solver connects teams facing similar problems*
 
 <!--
 This is the heart of being a force multiplier. When you make 10 engineers 10% more effective, that's more impact than anything you could code yourself.

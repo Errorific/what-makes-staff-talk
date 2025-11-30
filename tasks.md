@@ -56,7 +56,7 @@
 - [x] Review Section 2 (Differentiators) with Chris
 - [x] Review Section 3 (How They Work) with Chris
 - [x] Review Section 4 (Force Multiplier) with Chris
-- [ ] Review Section 5 (Business Value) with Chris
+- [x] Review Section 5 (Business Value) with Chris
 - [ ] Review Section 6 (Path to Staff) with Chris
 - [ ] Review bonus slides with Chris
 
