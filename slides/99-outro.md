@@ -17,7 +17,7 @@ layout: section
 
 ---
 
-# More Anti-Patterns to Watch For
+# More Anti-Patterns to self-sabotage with
 
 - **Not invented here**: Rejecting solutions because they didn't come from you
 
