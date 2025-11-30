@@ -58,7 +58,7 @@
 - [x] Review Section 4 (Force Multiplier) with Chris
 - [x] Review Section 5 (Business Value) with Chris
 - [x] Review Section 6 (Path to Staff) with Chris
-- [ ] Review bonus slides with Chris
+- [x] Review bonus slides with Chris
 
 ## Phase 3: Speaker Notes & Supporting Content
 - [ ] Add speaker notes to each slide

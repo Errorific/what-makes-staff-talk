@@ -34,8 +34,14 @@ These are additional anti-patterns beyond the core four we discussed. They're eq
 -->
 
 ---
+layout: two-cols-title
+---
+
+:: title ::
 
 # Path to Staff Checklist
+
+:: left ::
 
 **Finding Work:**
 - [ ] Taking on cross-team problems
@@ -46,6 +52,8 @@ These are additional anti-patterns beyond the core four we discussed. They're eq
 - [ ] Relationships across teams and functions
 - [ ] Mentor relationship with Staff+ engineers
 - [ ] Strong written communication (RFCs, design docs)
+
+:: right ::
 
 **Demonstrating Impact:**
 - [ ] Tracking cross-team contributions
