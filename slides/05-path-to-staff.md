@@ -9,25 +9,6 @@ Section 6: Path to Staff (6-7 minutes)
 -->
 
 ---
-
-# Finding Staff-Level Work
-
-**Expand Your Impact Radius:**
-
-- Take on problems that affect multiple teams
-- Volunteer for cross-team initiatives and working groups
-- Look for where your team's work intersects with others
-
-**Problem Discovery:**
-- Don't wait for assignments - identify important problems
-- Surface technical debt, risks, and opportunities
-- Practice connecting technical problems to business impact
-
-<!--
-Start acting like a Staff engineer before you have the title. Find the cross-team problems and start solving them.
--->
-
----
 layout: section
 ---
 
@@ -52,6 +33,25 @@ Everything else is contingent on understanding the wider company, understanding 
 
 <!--
 When an important cross-team problem comes up, you want people to think of you. That only happens if they already know you.
+-->
+
+---
+
+# Finding Staff-Level Work
+
+**Expand Your Impact Radius:**
+
+- Take on problems that affect multiple teams
+- Volunteer for cross-team initiatives and working groups
+- Look for where your team's work intersects with others
+
+**Problem Discovery:**
+- Don't wait for assignments - identify important problems
+- Surface technical debt, risks, and opportunities
+- Practice connecting technical problems to business impact
+
+<!--
+Start acting like a Staff engineer before you have the title. Find the cross-team problems and start solving them.
 -->
 
 ---
