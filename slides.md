@@ -18,6 +18,10 @@ The jump from Senior to Staff Engineer isn't just a promotion - it's a fundament
 -->
 
 ---
+src: ./slides/00-sponsors.md
+---
+
+---
 src: ./slides/00-intro.md
 ---
 
