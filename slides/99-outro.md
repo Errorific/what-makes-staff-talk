@@ -6,7 +6,7 @@ class: text-center
 # Questions?
 
 <!--
-Q&A slide - remaining time
+Alright, questions?
 -->
 
 ---
