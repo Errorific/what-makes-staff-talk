@@ -7,6 +7,7 @@ info: |
 transition: slide-left
 mdc: true
 layout: cover
+duration: 40min
 ---
 
 # What Makes Staff?
@@ -14,14 +15,11 @@ layout: cover
 ## Influence, Impact, and the Path Beyond Senior
 
 <!--
-What makes staff? If you meant to be at a different talk, then it's in the other room.
+What makes a staff engineer? If you meant to be at a different talk, then it's in the other room.
 
-The jump from Senior to Staff Engineer isn't just a promotion - it's a fundamental shift in how you create value for the organization. We're going to talk through some of these material differences today and how this non-management leadership role makes our engineering groups better.
+
+~~The jump from Senior to Staff Engineer isn't just a promotion - it's a fundamental shift in how you create value for the organization. We're going to talk through some of these material differences today and how this non-management leadership role makes our engineering groups better.~~
 -->
-
----
-src: ./slides/00-sponsors.md
----
 
 ---
 src: ./slides/00-intro.md

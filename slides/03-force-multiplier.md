@@ -31,6 +31,10 @@ Based on Will Larson's "Staff Engineer" book
 </table>
 
 <!--
+Originally I had a whole lot to say about the archetypes from will larsons book and how they model the impact you can have, I'm skipping it for time. Go read the book, its great.
+
+**Next Slide**
+
 There's a book by Will Larson about staff engineering that surfaces 4 archetypes categorising how staff engineers show up. I'm not going to go into much depth on these, but the books well worth reading if you want more details.
 
 First you've got the tech lead. They understand how to plan complicated projects, organise resourcing requirements, verify technical pathways, and manage stakeholders and adjacent technical boundaries.
@@ -101,7 +105,7 @@ A word of caution. When doing this kind of hunting, make sure you've investigate
 *Archetypes in action: The Architect prioritizes platform work, The Tech Lead balances velocity with quality*
 
 <!--
-Once you find the valuable problems, you need to make the appropriate investment. Some things only need a light touch to correct. Bad MR reviews might be resolved by a brown bag lunch talk about the importance of code style. Equally so it might be a sign that your engineers are committing AI slop or not testing their code at all and you need to start reviewing everything that team produces for awhile.
+Once you find the valuable problems, you need to make the appropriate investment. Some things only need a light touch to correct. Bad MR reviews might be resolved by a brown bag lunch talk about the importance of code style. Equally so it might be a sign that your engineers are committing AI slop or not testing their code at all and you need to start reviewing everything that team produces for awhile to encourage improvement.
 
 There's also times when the investment isn't going to align with business priorities. There might be a codebase that is constantly an issue for engineers working on it, but from your vantage point you're aware that profitability of that product line has been waning, it's likely to be dropped from the offering within 24 months, and the company isn't going to see a return on any investment to address its faults. You need to find quicker wins that can make the system more approachable, or reduce the expectations placed on engineers working in that space.
 Making these sorts of judgements can be a case study all by itself.
@@ -217,10 +221,13 @@ And then there's the impact on the people around you. There's only so far you ca
 *Archetypes in action: The Right Hand builds bridges across leadership, The Architect gains buy-in for standards*
 
 <!--
-You can't help others be more effective if they don't trust you or understand your reasoning. Consensus-building is foundational helping people perform better and cut through red tape. 
+You can't help others be more effective if they don't trust you or understand your reasoning. Consensus-building is foundational to helping people perform better and cut through red tape. 
+
 Rely on the network you've been building. You should already know the painpoints that people are concerned with throughout the company, you should be aware of what the focus of various stakeholders is for the current quarter.
-When you start on a project with people, they should already know you, if not from having met you before at least from your reputation. You're not going to have time to understand their world before jumping into a solution.
+
+When you start on a project with people, they should already know you, if not from having met you before at least from your reputation. You're not going to have time to understand their world at the start of a project.
 You also can't turn up and start dictating whats going to happen. First of all people don't like that and don't fully invest if they can't feel involved. Secondly if you dictate the pathway, you stand a risk of being saddled with the maintenance of this project forever. You need to set up the other engineers and managers to carry forward the project in your absence because you're not going to have the availability to be the caretaker of a service forever.
+
 Encourage everyone else to propose solutions. Learn to use leading questions to highlight problems and encourage plans to develop in a productive direction. Be ready to candidly and constructively disagree with your peers to bring forward the best outcomes. And don't let perfect get in the way. That a solution isn't the way you'd build it is not a reason to change it. If what someones proposed will work and there's no material problems with it, no pathway it will impose on future plans, let that solution ride and those engineers own it. If you can let them come up with it, then you don't have to build consensus, they already agree it's the right way forward and they will be more committed to long term ownership of the feature.
 -->
 
@@ -238,6 +245,7 @@ Encourage everyone else to propose solutions. Learn to use leading questions to 
 <!--
 With people onboard, you can then take actions that let them accelerate.
 Look for behaviours that are slowing people down. I've seen engineers get stuck for a week trying to figure out what the intent of a feature is and that can be solved in half an hour if you get them in front of the right stakeholder. Solutions getting some bikeshedding, force a decision. Emergent dependencies on adjacent systems, use your access to tap the owners of that system and see if you can plot a way forward with them. Your experience through so many projects means that you've seen and survived all of these issues, you've made these mistakes and hopefully reflected on how you would do it differently next time. Bring that experience to bear and make it happen differently this time.
+
 Make sure you do this in plain sight. The lessons you learned by making mistakes, you're robbing other engineers of that same learning experience. It's important that everyone understands whats going wrong and how the problem is going to be circumvented. Ideally the people you're working with don't let themselves get into the same situation next time and you leave a legacy of better engineers behind you.
 
 Any time you are intervening, the feedback you provide needs to be actionable. Just saying a solution isn't good enough or there's a gap doesn't bring people on the journey. You need to frame it as what technical issue is being ignored, or what failure will emerge as the project proceeds. If you've got suggestions about next steps to take, even better.

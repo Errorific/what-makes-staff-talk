@@ -19,7 +19,12 @@ align: center
 
 <!--
 I cannot emphasize this enough. Everything else depends on this.
-I've talked a bunch about the importance of building your network, you doubly need to be building it for your pathway forward
+
+You need to build relationships and networks.
+
+Staff involves the social mastery, so get social.
+
+I've talked a bunch about the importance of building your network, you doubly need to be building it for your pathway forward.
 -->
 
 ---

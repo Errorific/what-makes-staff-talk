@@ -45,7 +45,7 @@ transition: view-transition
 
 <!--
 I talked lots about force multiplication and the ways you can do it, you need to look back at those efforts and see adoption and what they changed about the status quo.
-Are your new processes and tools being ernestly engaged with and are they reducing cycle time? Can you measure a reduction in escalations and tee-ups now that you've better prepared engineers to self direct? Equally so can you see the systems you set up that haven't been mentioned ever again since you moved on from the project?
+Are your new processes and tools being ernestly engaged with and are they reducing cycle time? Can you measure a reduction in escalations and tee-ups now that you've better prepared engineers to self direct? Equally so can you see the systems you set up that have been ignored ever since you moved on from the project?
 Some of this ends up being very qualitative in nature, but the impact should still be reflected in velocity somewhere.
 -->
 

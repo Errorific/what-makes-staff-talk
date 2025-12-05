@@ -103,13 +103,11 @@ You're going to spend a lot more time mentoring and advising instead of building
 | Communicates primarily with immediate stakeholders | Communicates across zones and upward from them |
 
 <!--
-The position both roles take when communicating about needs to be different as well. Seniors are closely aligned with a team, service, and product space. They need to represent and defend the direction and needs of those local concerns. While once decisions have been made we're all on the same team and committed to delivering, while a pathway forward is still being found they need to be the squeaky wheel attached to their service and focus on how best to move it forward. 
+The position both roles take when communicating about their immediate needs changes as well. Seniors are closely aligned with a team, service, and product space. They need to represent and defend the direction and needs of those local concerns. Once decisions have been made, then we're all on the same team and committed to delivering, but while a pathway forward is still being found they need to be the squeaky wheel attached to their service and focus on how best to move it forward. 
 
 Conversely your staff engineers need to consider a wider picture that includes the impact to multiple areas of the company and what is the most impactful way to advance the engineering landscape at the company. This might mean balancing practical concerns like resourcing across the company, or it might be balancing technical investment with some teams accumulating tech debt to clear the way for an ambitious investment into the core of the product.
 
-This change in positioning gets reflected in the communication styles. A senior attached to the team will typically advocate more strongly for a given pathway, while a staff will be more politically neutral in their attempt to work with all sides of a given engineering space.
-
-Both positions reinforce each other with the technical perspective of the seniors informing the position the staff ends up taking, and the balancing of priorities the staff engineer undertakes better setting the senior engineers and their teams for a successful delivery within the constraints of the company.
+Both positions reinforce each other with the technical perspective of the seniors informing the position the staff ends up taking, and the balancing of priorities the staff engineer undertakes better sets up the senior engineers and their teams for a successful delivery within the constraints of the company.
 
 Being able to communicate requirements and solutions in a way that all stakeholders can understand, that accurately and concisely represents the concerns of all parties involved, and can promote alignment amongst them is a key skill you need to develop if you want to improve the effectiveness of all involved parties.
 -->

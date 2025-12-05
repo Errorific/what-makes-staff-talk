@@ -41,7 +41,7 @@ This difference in time allocation is something that you will feel. Your calenda
 You're going to be doing 1:1s, tee-ups with management, early shaping with product managers. And thats just the stuff that gets scheduled.
 Multiple times a week there will be requests that come out of nowhere that need immediate attention. It could be a critical decision that a manager needs input on, engineers that are stuck and need advice on how to move forward, critical bugs that need expert oversight. 
 With how much wider your radius of impact is now you will find yourself having to switch between projects multiple times a day and the whiplash gets fatiguing.
-All these demands on your attention means you need to be deliberate about what you get involved in and defend your time if you plan to be able to afford any effort the amount of time and energy it deserves. Get used to telling people no and figure out how to exit a project because no one is there to do it for you any more.
+All these demands on your attention means you need to be deliberate about what you get involved in and defend your time if you plan to be able to afford any project the amount of time and energy it deserves. Get used to telling people no and figure out how to exit a project because no one is there to do it for you any more.
 -->
 
 ---
@@ -100,8 +100,11 @@ Even with that sort of impact, to make your changes stick you need to develop th
 Something that I've learnt over the last few years is the difference between coaching and mentoring. 
 Coaching is structured and performance-focused, where a coach uses techniques and questions to help you develop specific skills or achieve particular goals, they won't necessarily be an expert in your field, and more often than not they aren't.
 Mentoring is a longer-term relationship where someone with relevant experience shares their wisdom and guidance to help you navigate your broader career or personal development. 
+
 Coaches help you get better at doing something specific, while mentors help you figure out what to do and who to become based on their own journey.
+
 It's been my experience that good mentors are far rarer than coaches, and with the skills and experience you bring to the table as staff, and the specialised awareness you have of the organisation you're both in, the mentorship you provide can rapidly develop the engineers around you.
+
 With a little focused effort you can take a promising junior to senior in 2 years, and you're going to have the freedom to go hunting for these candidates. You find them, and you make them your special projects. By the time they're flourishing, they'll be thinking like you, they'll be building like you, and they'll be your extensions into the organisation.
 -->
 
@@ -120,9 +123,9 @@ With a little focused effort you can take a promising junior to senior in 2 year
 - Know when to accumulate technical debt vs. pay it down
 
 <!--
-This ties back to the mastery progression. Staff engineers are developing business awareness - considering business impact in their decisions - even if they don't yet have the full business mastery expected at Principal+.
-
 While direct mentoring is extremely valuable, you won't be able to make time for everyone who deserves your advice, so to cover that you need to let people see the experience whenever you're solving problems.
-Do your work in the open, let people see what you're considering and what evidence contributed to the opinions you're reaching. Document your work and surface it wherever you can, and make it as accessible as possible. Your audience will span juniors through seniors, managers both with and without an engineering background, salespeople and support personnel.  If you can make the technical decisions approachable and keep them from being lost in terminology and rhetoric than they can learn more about the problem spaces and how to approach problems better. 
+
+Do your work in the open, let people see what you're considering and what evidence contributed to the opinions you're reaching. Document your work and surface it wherever you can, and make it as accessible as possible. Your audience will span juniors through seniors, managers both with and without an engineering background, salespeople and support personnel, and execs.  If you can make the technical decisions approachable and keep them from being lost in terminology and rhetoric than they can learn more about the problem spaces and how to approach problems better. 
+
 It also generates trust. You're going to be working in problem spaces where you haven't previously participated and when you turn up, you want to have a seat at the table prepared for you. If you're seen to be solving issues, people think you do it well, and you've made other peoples lives easier, then your opinions and work will always be welcome.
 -->

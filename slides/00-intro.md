@@ -25,7 +25,24 @@ Staff Engineer @ Zapier
 I'm Chris.
 I'm a staff engineer at Zapier where I've been for a few years.
 I've been building stuff for about 18 years now, and I've been at startups, enterprises, and a couple in between. I've been an engineer, tech lead, head of engineering, managed teams for awhile, but Staff suits me for right now.
+
+And I spent 12 hours in an incident last night and haven't had much sleep, so apologies in advance for so many things.
+
 Enough about me, buy me a beer if you want the life story.
+-->
+
+---
+layout: full
+---
+
+<img src="/sponsor_slide.png" class="w-full h-full object-contain" alt="DDD Brisbane 2025 Sponsors" />
+
+<!--
+First though, We have sponsors, these are them.
+Hopefully you recognize some of them from our local tech scene, if not, ask someone wearing one of these logos what their company does.
+Big thanks to all of them for being the reason DDD can happen today.
+
+Turn off adblock for today only so they see value in paying for our coffee next year.
 -->
 
 ---
@@ -48,6 +65,8 @@ So what is a staff engineer. 10 years ago the position might have required expla
 
 <!--
 This is where the individual contributor career path diverges from management. You're still an individual contributor, but your scope and impact has expanded dramatically. You're afforded autonomy and access that means you can have an impact across a much larger radius of your organization.
+
+A key differentiator is that this is the first level where you no longer are bound to a single team and start operating independently with agency inside of the organisation.
 -->
 
 ---
