@@ -1,6 +1,6 @@
 ---
 layout: two-cols-title
-align: l-lm-rm
+align: l-lm-cm
 ---
 
 :: title ::
