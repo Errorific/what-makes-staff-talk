@@ -128,10 +128,11 @@ Staff engineers need deeper awareness of:
 - How technical decisions ripple through the org
 
 <!--
-The problems also get fuzzier at Staff level. You're often working without clear requirements, with incomplete information, across organizational boundaries.
+The problems get fuzzier at Staff level. You're often working without clear requirements, with incomplete information, across organizational boundaries.
 
-At senior decisions usually revolves around how do we balance fast delivery with tech debt. 
-At the staff level the number of variables go up as you start to consider how efforts might align with or be reinforced by company wide investments.
+At senior, decisions usually revolve around a few variables: how do we balance fast delivery with tech debt, which technical approach is most appropriate, how do we fit this into the sprint.
 
-TODO: come back to this slide, I'm just not getting it right.
+At Staff, the number of variables multiplies. You're still considering the technical trade-offs, but now you're also juggling: Which teams have capacity to help? What's the political landscape around this problem? Is there a company-wide initiative we could align with or that might conflict? What's the appetite for risk right now? Who needs to be consulted before we commit? How will this decision affect the three other projects that touch this system?
+
+The complexity isn't just technical depth - it's multi-dimensional. You're solving a problem while simultaneously navigating the organization, managing stakeholder expectations, and anticipating second-order effects across teams you don't directly work with.
 -->
