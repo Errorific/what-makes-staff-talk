@@ -115,6 +115,8 @@ Making these sorts of judgements can be a case study all by itself.
 - Knows who needs to be involved and when
 - Reads the room and adapts communication style
 - Escalates appropriately - knows when to raise issues and to whom
+- Seeks feedback actively and acts on it
+- Learns from failures and shares those lessons
 
 *Archetypes in action: The Right Hand navigates executive priorities, The Architect builds relationships across teams to drive adoption*
 
@@ -176,20 +178,20 @@ You can't just get stuck when you realise your plan requires an infrastructure m
 
 ---
 
-# Continuous Adaptation
+# When Direction Changes
 
-- Seeks feedback actively and acts on it
-- Comfortable with ambiguity and changing priorities
-- Optimizes for organizational outcomes over team or service-level goals
-- Learns from failures and shares those lessons
+- Business priorities shift, new information emerges, assumptions get invalidated
+- Know when to pivot, scale back, or abandon work you've invested in
+- Sunk cost fallacy is real - cutting losses is sometimes the right call
+- Your job is to deliver the best outcome for the business, not to finish what you started
 
-*Archetypes in action: The Right Hand adapts to shifting priorities, The Solver pivots between problems*
+*Archetypes in action: The Right Hand adapts to shifting executive priorities, The Solver pivots between problems as urgency shifts*
 
 <!--
-And you need to be ready for the organisation to change around you.
-Moreso even than your traditional team work, you're going to be entering into work with lots of ambiguity. You're working more with people than technology now and they cannot be predicted. You need to roll with the punches, adapt your plans to fit the landscape you discover. Sometimes this means aborting work in flight and calling it a failure. 
-
-TODO: Does this slide just suck?
+And you need to be ready for the ground to shift beneath you mid-implementation.
+You're halfway through a technical initiative and then a competitor launches something that changes the business priority. Or you discover that your assumptions about a system were wrong and the approach won't work. Or the team you were depending on gets pulled onto an incident.
+The sunk cost fallacy hits hard here - you've invested weeks or months, you've built consensus, you've got momentum. But if the circumstances have changed, pushing through to "finish" something that no longer serves the business is ego, not leadership.
+Your job is to deliver the best outcome given current reality, not to complete what you planned when reality was different. Sometimes that means pivoting the approach, sometimes scaling back scope, sometimes walking away entirely and calling it a learning experience.
 -->
 
 ---
