@@ -61,7 +61,7 @@
 - [x] Review bonus slides with Chris
 
 ## Phase 3: Speaker Notes & Supporting Content
-- [ ] Add speaker notes to each slide
+- [x] Add speaker notes to each slide
 - [ ] Identify slides that need visuals/diagrams
 - [ ] Create or source any diagrams or illustrations
 - [ ] Add personal stories/examples where noted in skeleton
@@ -85,4 +85,5 @@
 - Q&A will follow presentation
 - Phase 1: COMPLETE ✓
 - Phase 2: COMPLETE ✓
-- Currently on: Phase 2.5 (Section Review)
+- Phase 2.5: COMPLETE ✓
+- Currently on: Phase 3 (Speaker Notes) / Phase 4 (Practice)

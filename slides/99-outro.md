@@ -1,4 +1,10 @@
 ---
+layout: full
+---
+
+<img src="/feedback_slide.png" class="w-full h-full object-contain" alt="Please give me feedback - scan QR code for prize draw" />
+
+---
 layout: center
 class: text-center
 ---
@@ -8,12 +14,6 @@ class: text-center
 <!--
 Alright, questions?
 -->
-
----
-layout: full
----
-
-<img src="/feedback_slide.png" class="w-full h-full object-contain" alt="Please give me feedback - scan QR code for prize draw" />
 
 ---
 layout: section
