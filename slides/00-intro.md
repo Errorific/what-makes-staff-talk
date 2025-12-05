@@ -5,7 +5,7 @@ layout: section
 # What is a Staff Engineer?
 
 <!--
-So what is a staff engineer. 10 years ago the position might have required explaining, but its gotten more common today so I'll keep this brief to make sure we're on the same page.
+So what is a staff engineer. 10 years ago the position might have required explaining, but it's gotten more common today so I'll keep this brief to make sure we're on the same page.
 -->
 
 ---
@@ -87,6 +87,6 @@ Throughout this presentation, we use the first definition.
 
 <!--
 I want to call out that Staff Engineer doesn't mean the same thing at every company. Some places this style of work only starts being considered at principal level with staff being a more senior senior, some places this sort of leadership doesn't get exercised at all.
-Consultancies in particular is somewhere that these role titles fall down.
+Consultancies in particular are somewhere that these role titles fall down.
 I'll keep on calling the role staff engineer for this talk, and I'll be framing it as it exists in product delivery companies, but for everything I describe think about which role it really is at your organization, or whether it exists at all.
 -->

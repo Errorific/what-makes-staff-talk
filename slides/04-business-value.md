@@ -87,8 +87,8 @@ transition: slide-left
 
 <!--
 Similarly being more aware of the organisations focus, capacity, and concerns lets you nudge solutions towards delivering more impact.
-You've got a team struggling to improve the reliability of certain endpoint because customers have been complaining about it, but you can see the real business objective is to improve customer visibility of the success and failure of that endpoint, you can steer the team towards improving observability and giving users more immediate feedback on the endpoints success.
-You've seen that a core system has repeatedly been sited as a blocker when new features are called for, start encouraging investment into tech debt remediation for that system, or find patterns that let your engineers work around that system or abstract away interactions with it.
+You've got a team struggling to improve the reliability of certain endpoint because customers have been complaining about it, but you can see the real business objective is to improve customer visibility of the success and failure of that endpoint, you can steer the team towards improving observability and giving users more immediate feedback on the endpoint's success.
+You've seen that a core system has repeatedly been cited as a blocker when new features are called for, start encouraging investment into tech debt remediation for that system, or find patterns that let your engineers work around that system or abstract away interactions with it.
 -->
 
 ---

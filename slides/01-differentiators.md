@@ -47,7 +47,7 @@ One way I've had the difference described to me is area of mastery that's expect
 
 Senior you're mastering the technology so you can build the best systems that you can.
 
-At Staff, its expected you have mastered the social aspects that come with working in a team and an organization. The skills and understanding that lets you find consensus when there's conflicting ideas and objectives, and being able to bring engineers and stakeholders alike along on the journey. On this path you're not going to be afforded the authority to tell people what they should be doing, that's generally reserved for management, so when you need to encourage change, you have to do just that, encourage people and convince them of the right pathway forwards.
+At Staff, it's expected you have mastered the social aspects that come with working in a team and an organization. The skills and understanding that lets you find consensus when there's conflicting ideas and objectives, and being able to bring engineers and stakeholders alike along on the journey. On this path you're not going to be afforded the authority to tell people what they should be doing, that's generally reserved for management, so when you need to encourage change, you have to do just that, encourage people and convince them of the right pathway forwards.
 
 Beyond staff you need to have a more acute mastery over business concerns. At that level your work will be playing a part in setting the direction the organization is taking in the market, so you need to grasp the ripple effects of the actions you take and how they cost or benefit the company. That becomes another talk.
 

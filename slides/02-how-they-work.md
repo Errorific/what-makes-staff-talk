@@ -20,7 +20,7 @@ So those differences now being surfaced, how does this end up reflecting in what
 
 <!--
 Don't let anyone tell you Staff engineers don't code. We do.
-It's highly variable, I do have weeks where I don't touch any code, and others where it can be 70% coding. Most weeks its sub 50%. 
+It's highly variable, I do have weeks where I don't touch any code, and others where it can be 70% coding. Most weeks it's sub 50%. 
 What has changed is why I code. I keep saying staff shouldn't focus on features and that holds true. I'm typically digging into architectural issues or improvements, bugs that jump across organizational or knowledge boundaries, or just experimenting.
 The rest of the time that I used to spend coding, I now keep up with 5 teams worth of projects and roadbumps, try to at least be aware of the headlines in another 4, and keep up with any larger technical decisions being made across the entire build org.
 Feedback for technical proposals in particular ends up taking a lot of time, I end up needing to research systems that span multiple product and company areas and quickly develop deep understanding of how they work. Being able to surface gaps in those proposals and pick viable pathways out of what has been proposed is often the difference between the company successfully delivering customer value or generating troubling levels of technical debt that will haunt us for years to come.
@@ -78,7 +78,7 @@ You need to look for the kinds of problems where no single team owns the solutio
 
 You've seen 3 patterns for auth across different teams and they're all repeating the same mistakes, time to try and get that to a single right way and make it easy for others to adopt moving forward. Just be careful not to create the 4th pattern.
 
-Customer reports are your primary method of bug discovery? You're finding every error after its been causing 2 months of problems for users? Time to establish some better observability practices and bug triage processes. Work with directors to better budget resourcing for bug fixing and prevention and then work with team managers to establish processes that get the right problems prioritised.
+Customer reports are your primary method of bug discovery? You're finding every error after it's been causing 2 months of problems for users? Time to establish some better observability practices and bug triage processes. Work with directors to better budget resourcing for bug fixing and prevention and then work with team managers to establish processes that get the right problems prioritised.
 
 Team thats been loaded up 150% for the past 12 months and haven't been able to dig themselves out, time for you to apply some outside perspective before they all quit. Go digging through their workload, what their planning looks like, where the work requests are coming from. Is it a resourcing problem or a workstream problem? Are they stuck at a critical crossroads of your infrastructure so get drawn into problems by many teams? Has their product manager been saying yes to every request and the engineering manager not intervening to defend the teams time? You're positioned to discover all of that, advise the managers and directors of what needs to change, and help guide that team out of the trenches.
 

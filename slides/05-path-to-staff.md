@@ -113,7 +113,7 @@ And you need to become more politically aware about why things happen in your or
 You need to be showing up like a staff engineer before you get the promotion.
 
 Stretch ownership beyond where you have previously to go deeper into the tech stack or further into the boundaries of neighbouring solutions. Your endpoints are part of an internal platform, be the one who's looking for anti-patterns from the teams consuming your work and be ready to help resolve those.
-If there's an area your team has been struggling with, get yourself assigned to them. Observability has been confusing and your SLOs are feeling meaningless, start trying to rework it all. It will help your team perform better, but its the sort of work thats visible multiple levels above you.
+If there's an area your team has been struggling with, get yourself assigned to them. Observability has been confusing and your SLOs are feeling meaningless, start trying to rework it all. It will help your team perform better, but it's the sort of work that's visible multiple levels above you.
 
 The reputation that comes from this investment will start paying off. You'll be the person that the movers and shakers come to when they have something that needs solving, and you'll have engineers coming to you for guidance. Overtime this saves you from having to directly invest in networking and building relationships because the right people around the company start coming to you.
 -->
@@ -154,7 +154,7 @@ You also need to plan this with your manager and probably the next level above t
 
 <!--
 There's no shortcut here. Staff is a significant step up, and it takes real time and effort to get there.
-Unlike moving to senior, its not as simple as getting better at what you were already doing and then there being a good chance someone else will recognise you for the promotion. There's fewer seats at the staff level and they require different business justification than simply having a more senior engineering workforce. 
+Unlike moving to senior, it's not as simple as getting better at what you were already doing and then there being a good chance someone else will recognise you for the promotion. There's fewer seats at the staff level and they require different business justification than simply having a more senior engineering workforce. 
 The last few people I've helped through this process I've given all the same advice, You need to make sure you're the obvious choice when a staff promotion opportunity comes up, because you can't predict when that will be. Having your manager say you'll be ready in 6 months does not mean there's a position available in 6 months. You might be stuck waiting for someone to exit the company or an expansion or re-org to create a new requirement for leadership.
 When that opportunity does come around, you want to be the obvious and un-controversial choice. The thought from the decision makers should be that you're already doing this work anyway.
 
