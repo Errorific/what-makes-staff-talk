@@ -26,7 +26,7 @@ I'm Chris.
 I'm a staff engineer at Zapier where I've been for a few years.
 I've been building stuff for about 18 years now, and I've been at startups, enterprises, and a couple in between. I've been an engineer, tech lead, head of engineering, managed teams for awhile, but Staff suits me for right now.
 
-And I spent 12 hours in an incident last night and haven't had much sleep, so apologies in advance for so many things.
+And I'm running on not much sleep after spending last night in an incident, so rushing and rambling are brought to you today by the letters adrenaline and caffeine. Feel free to rubbish me in the feedback if it ruins the presentation.
 
 Enough about me, buy me a beer if you want the life story.
 -->
